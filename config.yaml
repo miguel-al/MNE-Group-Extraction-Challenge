@@ -1,0 +1,16 @@
+data_path: "../data"
+input_filename: "extraction.csv"
+pause_time_min: 3
+pause_time_max: 7
+search_timeout: 20
+long_pause_groups_interval: 25
+long_pause_time: 120
+base_url: "https://financialmodelingprep.com/api/v3"
+api_key: "YOUR_API_KEY"
+max_request: 247
+phase1_pattern: "extraction_"
+output_phase2: "extraction_phase2.csv"
+output_phase3: "extraction_phase3.csv"
+gemini_api_key: "YOUR_API_KEY"
+gemini_model: "gemini-2.0-flash"
+delay_seconds: 5

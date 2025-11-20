@@ -1,0 +1,1201 @@
+ID;NAME;VARIABLE;SRC;VALUE;CURRENCY;REFYEAR
+18490453;ADECCO GROUP AG;COUNTRY;https://financialmodelingprep.com/api/v3/profile/AHEXY;CH;N/A;2024
+18490453;ADECCO GROUP AG;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/AHEXY;33597;N/A;2024
+18490453;ADECCO GROUP AG;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/AHEXY;23138000000;EUR;2024
+18490453;ADECCO GROUP AG;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/AHEXY;12099000000;EUR;2024
+18490453;ADECCO GROUP AG;WEBSITE;https://financialmodelingprep.com/api/v3/profile/AHEXY;https://www.adeccogroup.com;N/A;2024
+18490453;ADECCO GROUP AG;ACTIVITY;https://ai.google.dev/gemini-api;N78;N/A;2024
+18503381;JOHNSON CONTROLS INTERNATIONAL PUBLIC LIMITED COMPANY;COUNTRY;https://www.boerse-frankfurt.de/equity/johnson-controls-international-plc;IE;N/A;2024
+18503381;JOHNSON CONTROLS INTERNATIONAL PUBLIC LIMITED COMPANY;EMPLOYEES;https://www.johnsoncontrols.com/about/our-company;97000;N/A;2023
+18503381;JOHNSON CONTROLS INTERNATIONAL PUBLIC LIMITED COMPANY;TURNOVER;https://investors.johnsoncontrols.com/financials/annual-reports/default.aspx;26683000000;USD;2023
+18503381;JOHNSON CONTROLS INTERNATIONAL PUBLIC LIMITED COMPANY;ASSETS;https://www.sec.gov/Archives/edgar/data/0001541904/000154190423000077/jci-20230930.htm;39911000000;USD;2023
+18503381;JOHNSON CONTROLS INTERNATIONAL PUBLIC LIMITED COMPANY;WEBSITE;https://www.johnsoncontrols.com/;www.johnsoncontrols.com;N/A;2024
+18503381;JOHNSON CONTROLS INTERNATIONAL PUBLIC LIMITED COMPANY;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+18503440;MAGNA INTERNATIONAL INC;COUNTRY;https://tools.morningstar.co.uk/uk/stockreport/default.aspx?SecurityToken=0P0000684T%5D3%5D0%5DE0WWE%24%24ALL;CA;N/A;2024
+18503440;MAGNA INTERNATIONAL INC;EMPLOYEES;https://www.magna.com/company/at-a-glance;174000;N/A;2023
+18503440;MAGNA INTERNATIONAL INC;TURNOVER;https://www.magna.com/media/files/magna-annual-report-2023.pdf;42837000000;USD;2023
+18503440;MAGNA INTERNATIONAL INC;ASSETS;https://www.magna.com/media/files/magna-2023-annual-report.pdf;40419000000;USD;2023
+18503440;MAGNA INTERNATIONAL INC;WEBSITE;http://www.magna.com/;www.magna.com;N/A;2024
+18503440;MAGNA INTERNATIONAL INC;ACTIVITY;https://ai.google.dev/gemini-api;C29;N/A;2024
+18511746;PUBLICIS GROUPE S A;COUNTRY;https://live.euronext.com/en/product/equities/FR0000130577-XPAR;FR;N/A;2024
+18511746;PUBLICIS GROUPE S A;EMPLOYEES;https://www.publicisgroupe.com/en/investors/regulated-information;102781;N/A;2023
+18511746;PUBLICIS GROUPE S A;TURNOVER;https://www.publicisgroupe.com/en/investors/regulated-information;13089000000;EUR;2023
+18511746;PUBLICIS GROUPE S A;ASSETS;https://www.publicisgroupe.com/en/investors/regulated-information;36117000000;EUR;2023
+18511746;PUBLICIS GROUPE S A;WEBSITE;https://www.publicisgroupe.com/en/the-groupe/about-publicis-groupe;www.publicisgroupe.com;N/A;2024
+18511746;PUBLICIS GROUPE S A;ACTIVITY;https://ai.google.dev/gemini-api;M73;N/A;2024
+18512048;GEBR. KNAUF;COUNTRY;https://ai.google.dev/gemini-api;DE;N/A;2024
+18512048;GEBR. KNAUF;EMPLOYEES;https://www.knauf.com/en/company/knauf-group/knauf-group.html;40000;N/A;2023
+18512048;GEBR. KNAUF;TURNOVER;https://ai.google.dev/gemini-api;0;;
+18512048;GEBR. KNAUF;ASSETS;;3266000000;EUR;2022
+18512048;GEBR. KNAUF;WEBSITE;https://knauf.com/en;knauf.com;N/A;2024
+18512048;GEBR. KNAUF;ACTIVITY;https://ai.google.dev/gemini-api;C23;N/A;2024
+18519151;BRIDGESTONE CORPORATION;COUNTRY;https://financialmodelingprep.com/api/v3/profile/BRDCY;JP;N/A;2024
+18519151;BRIDGESTONE CORPORATION;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/BRDCY;121464;N/A;2024
+18519151;BRIDGESTONE CORPORATION;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/BRDCY;4430096000000;JPY;2024
+18519151;BRIDGESTONE CORPORATION;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/BRDCY;5723517000000;JPY;2024
+18519151;BRIDGESTONE CORPORATION;WEBSITE;https://financialmodelingprep.com/api/v3/profile/BRDCY;https://www.bridgestone.co.jp;N/A;2024
+18519151;BRIDGESTONE CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;C22;N/A;2024
+18520469;FERRERO;COUNTRY;https://ai.google.dev/gemini-api;IT;N/A;2024
+18520469;FERRERO;EMPLOYEES;https://www.ferrero.com/the-ferrero-group/ferrero-group-today;47213;N/A;2023
+18520469;FERRERO;TURNOVER;https://www.ferrero.com/news/ferrero-group-approves-the-consolidated-financial-statements-for-financial-year-2022-23;17000000000;EUR;2023
+18520469;FERRERO;ASSETS;https://www.ferrero.com/news/ferrero-group-announces-consolidated-financial-results-for-fiscal-year-2022-23;18841000000;EUR;2023
+18520469;FERRERO;WEBSITE;https://www.ferrero.com/int/en/;www.ferrero.com;N/A;2024
+18520469;FERRERO;ACTIVITY;https://ai.google.dev/gemini-api;C10;N/A;2024
+18521399;SUMITOMO CORPORATION;COUNTRY;https://financialmodelingprep.com/api/v3/profile/SSUMY;JP;N/A;2024
+18521399;SUMITOMO CORPORATION;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/SSUMY;74920;N/A;2024
+18521399;SUMITOMO CORPORATION;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/SSUMY;6910302000000;JPY;2024
+18521399;SUMITOMO CORPORATION;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/SSUMY;11032583000000;JPY;2024
+18521399;SUMITOMO CORPORATION;WEBSITE;https://financialmodelingprep.com/api/v3/profile/SSUMY;https://www.sumitomocorp.com;N/A;2024
+18521399;SUMITOMO CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+18527213;COMPAGNIE DE SAINT GOBAIN;COUNTRY;https://live.euronext.com/en/product/equities/FR0000125007-XPAR;FR;N/A;2024
+18527213;COMPAGNIE DE SAINT GOBAIN;EMPLOYEES;https://www.saint-gobain.com/sites/saint-gobain.com/files/2024-02/Saint-Gobain_2023_Universal_Registration_Document.pdf;160000;N/A;2023
+18527213;COMPAGNIE DE SAINT GOBAIN;TURNOVER;https://www.saint-gobain.com/sites/saint-gobain.com/files/2024-02/Saint-Gobain_2023_Registration_Document.pdf;51178000000;EUR;2023
+18527213;COMPAGNIE DE SAINT GOBAIN;ASSETS;https://www.saint-gobain.com/sites/saint-gobain.com/files/2024-02/Saint-Gobain_Universal-Registration-Document-2023.pdf;52343000000;EUR;2023
+18527213;COMPAGNIE DE SAINT GOBAIN;WEBSITE;https://www.saint-gobain.com/en;www.saint-gobain.com;N/A;2024
+18527213;COMPAGNIE DE SAINT GOBAIN;ACTIVITY;https://ai.google.dev/gemini-api;C23;N/A;2024
+18535882;ABBOTT LABORATORIES;COUNTRY;https://ai.google.dev/gemini-api;US;N/A;2024
+18535882;ABBOTT LABORATORIES;EMPLOYEES;https://www.abbott.com/annual-report/2023/our-company.html;114000;N/A;2023
+18535882;ABBOTT LABORATORIES;TURNOVER;https://www.annualreports.com/HostedData/AnnualReportArchive/a/NYSE_ABT_2023.pdf;43735000000;USD;2023
+18535882;ABBOTT LABORATORIES;ASSETS;https://www.annualreports.com/HostedData/AnnualReportArchive/a/NYSE_ABT_2023.pdf;79334000000;USD;2023
+18535882;ABBOTT LABORATORIES;WEBSITE;https://www.abbott.com/;www.abbott.com;N/A;2024
+18535882;ABBOTT LABORATORIES;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+18539093;BP P.L.C.;COUNTRY;https://www.fidelity.co.uk/factsheet-data/factsheet/GB0007980591-bp/key-statistics;GB;N/A;2024
+18539093;BP P.L.C.;EMPLOYEES;https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/investors/bp-annual-report-and-form-20f-2023.pdf;60700;N/A;2023
+18539093;BP P.L.C.;TURNOVER;https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/investors/bp-annual-report-and-form-20f-2023.pdf;227362000000;USD;2023
+18539093;BP P.L.C.;ASSETS;https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/investors/bp-annual-report-and-form-20f-2023.pdf;284372000000;USD;2023
+18539093;BP P.L.C.;WEBSITE;https://www.bp.com/;www.bp.com;N/A;2024
+18539093;BP P.L.C.;ACTIVITY;https://ai.google.dev/gemini-api;B06;N/A;2024
+18541762;ENGIE;COUNTRY;https://live.euronext.com/en/product/equities/FR0010208488-XPAR;FR;N/A;2024
+18541762;ENGIE;EMPLOYEES;https://www.engie.com/sites/default/files/2024-02/urd-2023-engie.pdf;97261;N/A;2023
+18541762;ENGIE;TURNOVER;https://www.engie.com/sites/default/files/2024-02/URD%202023%20ENGIE.pdf;93204000000;EUR;2023
+18541762;ENGIE;ASSETS;https://www.engie.com/sites/default/files/assets/finance/2023-03/engie-2022-universal-registration-document.pdf;318820000000;EUR;2022
+18541762;ENGIE;WEBSITE;https://www.engie.com/en;www.engie.com;N/A;2024
+18541762;ENGIE;ACTIVITY;https://ai.google.dev/gemini-api;D35;N/A;2024
+18543139;DENTSU GROUP INC.;COUNTRY;https://financialmodelingprep.com/api/v3/profile/DNTUY;JP;N/A;2024
+18543139;DENTSU GROUP INC.;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/DNTUY;67667;N/A;2024
+18543139;DENTSU GROUP INC.;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/DNTUY;1410961000000;JPY;2024
+18543139;DENTSU GROUP INC.;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/DNTUY;3507260000000;JPY;2024
+18543139;DENTSU GROUP INC.;WEBSITE;https://financialmodelingprep.com/api/v3/profile/DNTUY;https://www.group.dentsu.com;N/A;2024
+18543139;DENTSU GROUP INC.;ACTIVITY;https://ai.google.dev/gemini-api;M73;N/A;2024
+18552002;THYSSENKRUPP;COUNTRY;https://financialmodelingprep.com/api/v3/profile/TYEKF;DE;N/A;2024
+18552002;THYSSENKRUPP;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/TYEKF;97360;N/A;2024
+18552002;THYSSENKRUPP;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/TYEKF;35041000000;EUR;2024
+18552002;THYSSENKRUPP;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/TYEKF;29333000000;EUR;2024
+18552002;THYSSENKRUPP;WEBSITE;https://financialmodelingprep.com/api/v3/profile/TYEKF;https://www.thyssenkrupp.com;N/A;2024
+18552002;THYSSENKRUPP;ACTIVITY;https://ai.google.dev/gemini-api;C25;N/A;2024
+18573648;VOESTALPINE GROUP;COUNTRY;https://www.boerse-frankfurt.de/equity/voestalpine-ag?mic=XFRA;AT;N/A;2024
+18573648;VOESTALPINE GROUP;EMPLOYEES;https://www.voestalpine.com/group/en/group/the-voestalpine-group/facts-figures/;51200;N/A;2024
+18573648;VOESTALPINE GROUP;TURNOVER;https://www.voestalpine.com/group/en/group/;18200000000;EUR;2023
+18573648;VOESTALPINE GROUP;ASSETS;https://www.voestalpine.com/group/en/investors/reports/;17813000000;EUR;2023
+18573648;VOESTALPINE GROUP;WEBSITE;https://www.voestalpine.com/group/en/;www.voestalpine.com;N/A;2024
+18573648;VOESTALPINE GROUP;ACTIVITY;https://ai.google.dev/gemini-api;C24;N/A;2024
+18573835;ORANGE;COUNTRY;https://live.euronext.com/en/product/equities/fr0000133308-xpar/market-information;FR;N/A;2024
+18573835;ORANGE;EMPLOYEES;https://www.orange.com/en/latest-news/orange-annual-results-2023;127000;N/A;2023
+18573835;ORANGE;TURNOVER;https://www.orange.com/en/latest-news/orange-group-annual-results-2023;44159000000;EUR;2023
+18573835;ORANGE;ASSETS;https://www.orange.com/en/latest-news/2023-results;51950000000;EUR;2023
+18573835;ORANGE;WEBSITE;https://www.orange.es/;www.orange.es;N/A;2024
+18573835;ORANGE;ACTIVITY;https://ai.google.dev/gemini-api;F42;N/A;2024
+18581640;ORACLE CORP;COUNTRY;https://divvydiary.com/en/oracle-stock-US68389X1054;US;N/A;2024
+18581640;ORACLE CORP;EMPLOYEES;https://www.oracle.com/news/resources/facts/;164000;N/A;2024
+18581640;ORACLE CORP;TURNOVER;https://www.oracle.com/investor/reports/annual-report/;52964000000;USD;2023
+18581640;ORACLE CORP;ASSETS;https://www.sec.gov/Archives/edgar/data/1341439/000134143924000114/orcl-20240531.htm;157447000000;USD;2024
+18581640;ORACLE CORP;WEBSITE;https://www.oracle.com/corporate/;www.oracle.com;N/A;2024
+18581640;ORACLE CORP;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+18587386;ACCOR;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ACRFF;FR;N/A;2024
+18587386;ACCOR;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ACRFF;19423;N/A;2024
+18587386;ACCOR;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ACRFF;5606000000;EUR;2024
+18587386;ACCOR;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ACRFF;12057000000;EUR;2024
+18587386;ACCOR;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ACRFF;https://www.group.accor.com/en;N/A;2024
+18587386;ACCOR;ACTIVITY;https://ai.google.dev/gemini-api;H55;N/A;2024
+18591402;PROCTER & GAMBLE CO;COUNTRY;https://divvydiary.com/en/procter-and-gamble-stock-US7427181091;US;N/A;2024
+18591402;PROCTER & GAMBLE CO;EMPLOYEES;https://www.pginvestor.com/news-events/news/news-details/2023/P-G-Announces-Fiscal-Year-2023-Results/default.aspx;106000;N/A;2023
+18591402;PROCTER & GAMBLE CO;TURNOVER;https://www.pginvestor.com/financial-reporting/annual-reports/default.aspx;82000000000;USD;2023
+18591402;PROCTER & GAMBLE CO;ASSETS;https://www.pginvestor.com/financial-reporting/default.aspx;118744000000;USD;2023
+18591402;PROCTER & GAMBLE CO;WEBSITE;https://us.pg.com/;us.pg.com;N/A;2024
+18591402;PROCTER & GAMBLE CO;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+18599238;FCC;COUNTRY;https://financialmodelingprep.com/api/v3/profile/FCIC;US;N/A;2024
+18599238;FCC;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/FCIC;3;N/A;2024
+18599238;FCC;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/FCIC;100000;USD;2024
+18599238;FCC;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/FCIC;53000;USD;2024
+18599238;FCC;WEBSITE;https://www.fcc.gov/;www.fcc.gov;N/A;2024
+18599238;FCC;ACTIVITY;https://ai.google.dev/gemini-api;F42;N/A;2024
+18606822;SOCIETE NATIONALE SNCF;COUNTRY;https://live.euronext.com/en/product/bonds/FR0014003B48-XPAR/market-information;FR;N/A;2024
+18606822;SOCIETE NATIONALE SNCF;EMPLOYEES;https://www.sncf.com/sites/default/files/2023-07/RA_2022_SNCF_SA_VF.pdf;272211;N/A;2022
+18606822;SOCIETE NATIONALE SNCF;TURNOVER;https://www.sncf.com/sites/default/files/media/document/2023-04/CP_SNCF_Resultats_2022_VF.pdf;35000000000;EUR;2022
+18606822;SOCIETE NATIONALE SNCF;ASSETS;;;;
+18606822;SOCIETE NATIONALE SNCF;WEBSITE;https://www.groupe-sncf.com/en;www.groupe-sncf.com;N/A;2024
+18606822;SOCIETE NATIONALE SNCF;ACTIVITY;https://ai.google.dev/gemini-api;H49;N/A;2024
+18611599;ATLAS COPCO AKTIEBOLAG;COUNTRY;https://www.justetf.com/en/stock-profiles/SE0017486897;SE;N/A;2024
+18611599;ATLAS COPCO AKTIEBOLAG;EMPLOYEES;https://www.atlascopcogroup.com/en/investors/reports-presentations;52000;N/A;2023
+18611599;ATLAS COPCO AKTIEBOLAG;TURNOVER;https://www.atlascopcogroup.com/en/investors/financial-reports;160000000000;SEK;2023
+18611599;ATLAS COPCO AKTIEBOLAG;ASSETS;https://www.atlascopcogroup.com/en/investors/reports-presentations;173767;SEK;2023
+18611599;ATLAS COPCO AKTIEBOLAG;WEBSITE;https://www.atlascopco.com/;www.atlascopco.com;N/A;2024
+18611599;ATLAS COPCO AKTIEBOLAG;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+18618947;AKTIEBOLAGET SKF;COUNTRY;https://www.boerse-frankfurt.de/equity/skf-ab;SE;N/A;2024
+18618947;AKTIEBOLAGET SKF;EMPLOYEES;https://www.skf.com/binaries/pub12/PublishedFiles/2023/en/SKF_Annual_Report_2023.pdf;40788;N/A;2023
+18618947;AKTIEBOLAGET SKF;TURNOVER;https://investors.skf.com/sites/skf-ir/files/reports/SKF_Annual_Report_2023.pdf;103641000000;SEK;2023
+18618947;AKTIEBOLAGET SKF;ASSETS;https://www.skf.com/binary/tcm:12-360687/SKF-Annual-Report-2023-English.pdf;64811;SEK;2023
+18618947;AKTIEBOLAGET SKF;WEBSITE;https://www.skf.com/group;www.skf.com;N/A;2024
+18618947;AKTIEBOLAGET SKF;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+18622186;JOHN WOOD GROUP PLC;COUNTRY;https://ai.google.dev/gemini-api;GB;N/A;2024
+18622186;JOHN WOOD GROUP PLC;EMPLOYEES;https://www.woodplc.com/investors/annual-report;35000;N/A;2023
+18622186;JOHN WOOD GROUP PLC;TURNOVER;https://www.woodplc.com/investors/results-reports-and-presentations;5900000000;USD;2023
+18622186;JOHN WOOD GROUP PLC;ASSETS;https://www.woodplc.com/investors/annual-report;3461000000;USD;2023
+18622186;JOHN WOOD GROUP PLC;WEBSITE;https://www.woodplc.com/;www.woodplc.com;N/A;2024
+18622186;JOHN WOOD GROUP PLC;ACTIVITY;https://ai.google.dev/gemini-api;M71;N/A;2024
+18627417;FUJITSU LIMITED;COUNTRY;https://financialmodelingprep.com/api/v3/profile/FJTSY;JP;N/A;2024
+18627417;FUJITSU LIMITED;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/FJTSY;123527;N/A;2024
+18627417;FUJITSU LIMITED;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/FJTSY;3756059000000;JPY;2024
+18627417;FUJITSU LIMITED;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/FJTSY;3514818000000;JPY;2024
+18627417;FUJITSU LIMITED;WEBSITE;https://financialmodelingprep.com/api/v3/profile/FJTSY;https://www.fujitsu.com;N/A;2024
+18627417;FUJITSU LIMITED;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+18629376;CRH PLC;COUNTRY;https://www.boerse-frankfurt.de/equity/crh-plc;IE;N/A;2024
+18629376;CRH PLC;EMPLOYEES;https://www.crh.com/media/press-releases/2024/crh-plc-2023-full-year-results;75800;N/A;2023
+18629376;CRH PLC;TURNOVER;https://www.crh.com/media/press-releases/2024/crh-plc-full-year-results-2023;32141000000;USD;2023
+18629376;CRH PLC;ASSETS;https://www.crh.com/media/crh/original/202403/CRH_Annual_Report_2023.pdf;43811000000;USD;2023
+18629376;CRH PLC;WEBSITE;https://www.crh.com/;www.crh.com;N/A;2024
+18629376;CRH PLC;ACTIVITY;https://ai.google.dev/gemini-api;C23;N/A;2024
+18632343;DEUTSCHE BAHN;COUNTRY;https://www.boerse-frankfurt.de/bond/xs2577042893-deutsche-bahn-finance-gmbh-3-625-23-37;XS;N/A;2024
+18632343;DEUTSCHE BAHN;EMPLOYEES;https://www.deutschebahn.com/resource/blob/9318280/f2999812955a64c0095729c525349937/DB-Konzern-GB-2023-data.pdf;339534;N/A;2023
+18632343;DEUTSCHE BAHN;TURNOVER;https://www.deutschebahn.com/en/group/facts_figures/facts_and_figures-973484;45200000000;EUR;2023
+18632343;DEUTSCHE BAHN;ASSETS;https://www.deutschebahn.com/resource/blob/8512934/a3999944694ef6e3c9f27ca5997f98ca/DB-Konzern-Geschaeftsbericht-2022-data.pdf;74391000000;EUR;2022
+18632343;DEUTSCHE BAHN;WEBSITE;https://int.bahn.de/en;int.bahn.de;N/A;2024
+18632343;DEUTSCHE BAHN;ACTIVITY;https://ai.google.dev/gemini-api;H49;N/A;2024
+18636888;CARGILL;COUNTRY;https://www.boerse-frankfurt.de/bond/usu14178es95-cargill-inc-1-7-21-31;US;N/A;2024
+18636888;CARGILL;EMPLOYEES;https://www.cargill.com/who-we-are/at-a-glance;160000;N/A;2023
+18636888;CARGILL;TURNOVER;https://www.cargill.com/2023-annual-report;177000000000;USD;2023
+18636888;CARGILL;ASSETS;https://www.cargill.com/doc/1432128923495/cargill-2023-annual-report.pdf;59743000000;USD;2023
+18636888;CARGILL;WEBSITE;https://www.cargill.com/;www.cargill.com;N/A;2024
+18636888;CARGILL;ACTIVITY;https://ai.google.dev/gemini-api;A01;N/A;2024
+18644473;WARNER BROS. DISCOVERY INC.;COUNTRY;https://ai.google.dev/gemini-api;US;N/A;2024
+18644473;WARNER BROS. DISCOVERY INC.;EMPLOYEES;https://www.sec.gov/Archives/edgar/data/1437107/000143710724000047/wbd-20231231.htm;24300;N/A;2023
+18644473;WARNER BROS. DISCOVERY INC.;TURNOVER;https://ir.wbd.com/static-files/f11c9d49-ca55-42a7-a467-329a0c41a9ca;41319000000;USD;2023
+18644473;WARNER BROS. DISCOVERY INC.;ASSETS;https://ir.wbd.com/static-files/f03f52ca-ca93-4945-93a5-7f549b196207;54496000000;USD;2023
+18644473;WARNER BROS. DISCOVERY INC.;WEBSITE;https://www.wbd.com/;www.wbd.com;N/A;2024
+18644473;WARNER BROS. DISCOVERY INC.;ACTIVITY;https://ai.google.dev/gemini-api;J59;N/A;2024
+18646411;GENERAL ELECTRIC COMPANY;COUNTRY;https://www.boerse-frankfurt.de/equity/general-electric-co-1?mic=XFRA;US;N/A;2024
+18646411;GENERAL ELECTRIC COMPANY;EMPLOYEES;https://www.ge.com/sites/default/files/GE_2023_Annual_Report.pdf;125000;N/A;2023
+18646411;GENERAL ELECTRIC COMPANY;TURNOVER;https://www.ge.com/sites/default/files/GE_Annual_Report_2023.pdf;67965000000;USD;2023
+18646411;GENERAL ELECTRIC COMPANY;ASSETS;https://www.ge.com/sites/default/files/ge_annual_report_2023.pdf;353710000000;USD;2023
+18646411;GENERAL ELECTRIC COMPANY;WEBSITE;https://www.ge.com/;www.ge.com;N/A;2024
+18646411;GENERAL ELECTRIC COMPANY;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+18648074;SAFRAN;COUNTRY;https://financialmodelingprep.com/api/v3/profile/SAFRY;FR;N/A;2024
+18648074;SAFRAN;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/SAFRY;96390;N/A;2024
+18648074;SAFRAN;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/SAFRY;27716000000;EUR;2024
+18648074;SAFRAN;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/SAFRY;55012000000;EUR;2024
+18648074;SAFRAN;WEBSITE;https://financialmodelingprep.com/api/v3/profile/SAFRY;https://www.safran-group.com;N/A;2024
+18648074;SAFRAN;ACTIVITY;https://ai.google.dev/gemini-api;C30;N/A;2024
+18658675;BASF;COUNTRY;https://financialmodelingprep.com/api/v3/profile/BFFAF;DE;N/A;2024
+18658675;BASF;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/BFFAF;111408;N/A;2024
+18658675;BASF;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/BFFAF;65260000000;EUR;2024
+18658675;BASF;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/BFFAF;80415000000;EUR;2024
+18658675;BASF;WEBSITE;https://financialmodelingprep.com/api/v3/profile/BFFAF;https://www.basf.com;N/A;2024
+18658675;BASF;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+18665236;APTIV PLC;COUNTRY;https://financialmodelingprep.com/api/v3/profile/APTV-PA;IE;N/A;2024
+18665236;APTIV PLC;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/APTV-PA;160000;N/A;2024
+18665236;APTIV PLC;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/APTV-PA;19713000000;USD;2024
+18665236;APTIV PLC;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/APTV-PA;23458000000;USD;2024
+18665236;APTIV PLC;WEBSITE;https://financialmodelingprep.com/api/v3/profile/APTV-PA;https://www.aptiv.com;N/A;2024
+18665236;APTIV PLC;ACTIVITY;https://ai.google.dev/gemini-api;C29;N/A;2024
+18673760;WPP PLC;COUNTRY;https://www.boerse-frankfurt.de/equity/wpp-plc-adr-5;US;N/A;2024
+18673760;WPP PLC;EMPLOYEES;https://www.wpp.com/investors/reports-results;114000;N/A;2023
+18673760;WPP PLC;TURNOVER;https://www.wpp.com/investors/results-reports-presentations;14436000000;GBP;2023
+18673760;WPP PLC;ASSETS;https://www.wpp.com/investors/results-reports-presentations;33449;GBP;2023
+18673760;WPP PLC;WEBSITE;https://www.wpp.com/en/;www.wpp.com;N/A;2024
+18673760;WPP PLC;ACTIVITY;https://ai.google.dev/gemini-api;M73;N/A;2024
+18685228;GI GROUP;COUNTRY;https://ai.google.dev/gemini-api;IT;N/A;2024
+18685228;GI GROUP;EMPLOYEES;https://www.gigroup.com/media/4427/bilancio-consolidato-2022.pdf;6800;N/A;2022
+18685228;GI GROUP;TURNOVER;https://www.gigroup.com/wp-content/uploads/2023/04/Gi-Group-Integrated-Report-2022.pdf;2300000000;EUR;2022
+18685228;GI GROUP;ASSETS;;;;
+18685228;GI GROUP;WEBSITE;https://es.gigroup.com/;es.gigroup.com;N/A;2024
+18685228;GI GROUP;ACTIVITY;https://ai.google.dev/gemini-api;N78;N/A;2024
+18686668;ACCIONA;COUNTRY;https://www.boerse-frankfurt.de/equity/acciona-s-a;ES;N/A;2024
+18686668;ACCIONA;EMPLOYEES;https://www.acciona.com/shareholders-investors/economic-financial-information/annual-reports/;42893;N/A;2023
+18686668;ACCIONA;TURNOVER;https://www.acciona.com/shareholders-investors/economic-financial-information/annual-accounts/;11195;EUR;2023
+18686668;ACCIONA;ASSETS;https://www.acciona.com/shareholders-investors/economic-financial-information/annual-accounts/;23994000000;EUR;2023
+18686668;ACCIONA;WEBSITE;https://www.acciona.com/;www.acciona.com;N/A;2024
+18686668;ACCIONA;ACTIVITY;https://ai.google.dev/gemini-api;F42;N/A;2024
+18691645;FLETCHER GROUP;COUNTRY;https://divvydiary.com/en/fletcher-building-stock-NZFBUE0001S0;NZ;N/A;2024
+18691645;FLETCHER GROUP;EMPLOYEES;https://www.fletcherbuilding.com/who-we-are/;19000;N/A;2023
+18691645;FLETCHER GROUP;TURNOVER;https://www.fletcherbuilding.com/globalassets/documents/annual-reports/fletcher-building-annual-report-2023.pdf;3300000000;NZD;2023
+18691645;FLETCHER GROUP;ASSETS;https://www.fletcherbuilding.com/assets/Investor-Centre/Fletcher-Building-FY23-Annual-Report.pdf;5600000000;NZD;2023
+18691645;FLETCHER GROUP;WEBSITE;https://www.fletcher-group.com/;www.fletcher-group.com;N/A;2024
+18691645;FLETCHER GROUP;ACTIVITY;https://ai.google.dev/gemini-api;C23;N/A;2024
+18694033;SODEXO;COUNTRY;https://live.euronext.com/en/product/equities/FR0000121220-XPAR;FR;N/A;2024
+18694033;SODEXO;EMPLOYEES;https://www.sodexo.com/home/media/press-releases/sodexo-reports-fiscal-2023-results.html;430000;N/A;2023
+18694033;SODEXO;TURNOVER;https://www.sodexo.com/files/live/sites/com-sodexo/files/Investors/Publications/RA2023/Sodexo_RA2023_EN.pdf;23811000000;EUR;2023
+18694033;SODEXO;ASSETS;https://fr.marketscreener.com/quote/stock/SODEXO-4159/company/;8200000000;EUR;2023
+18694033;SODEXO;WEBSITE;https://www.sodexo.com/;www.sodexo.com;N/A;2024
+18694033;SODEXO;ACTIVITY;https://ai.google.dev/gemini-api;I56;N/A;2024
+18700025;ADVANCE PROPERTIES;COUNTRY;https://es.marketscreener.com/cotizacion/accion/ADVANCE-RESIDENCE-INVESTM-6500945/graficos-sector/;JP;N/A;2024
+18700025;ADVANCE PROPERTIES;EMPLOYEES;;;N/A;
+18700025;ADVANCE PROPERTIES;TURNOVER;;;;
+18700025;ADVANCE PROPERTIES;ASSETS;;;;
+18700025;ADVANCE PROPERTIES;WEBSITE;https://www.advanceproperty.co.uk/;www.advanceproperty.co.uk;N/A;2024
+18700025;ADVANCE PROPERTIES;ACTIVITY;https://ai.google.dev/gemini-api;L68;N/A;2024
+18705450;AKZO NOBEL NV;COUNTRY;https://live.euronext.com/en/product/equities/NL0013267909-XAMS;NL;N/A;2024
+18705450;AKZO NOBEL NV;EMPLOYEES;https://www.akzonobel.com/sites/akzonobel.com/files/akzonobel_integrated_annual_report_2023.pdf;33300;N/A;2023
+18705450;AKZO NOBEL NV;TURNOVER;https://www.akzonobel.com/sites/akzonobel.com/files/2024-02/AkzoNobel%20Annual%20Report%202023.pdf;10864000000;EUR;2023
+18705450;AKZO NOBEL NV;ASSETS;https://www.akzonobel.com/sites/akzonobel.com/files/2024-02/AkzoNobel_Annual_Report_2023.pdf;21314000000;EUR;2023
+18705450;AKZO NOBEL NV;WEBSITE;https://www.akzonobel.com/en;www.akzonobel.com;N/A;2024
+18705450;AKZO NOBEL NV;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+18709351;DIOR;COUNTRY;https://financialmodelingprep.com/api/v3/profile/CHDRY;FR;N/A;2024
+18709351;DIOR;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/CHDRY;195831;N/A;2024
+18709351;DIOR;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/CHDRY;84683000000;EUR;2024
+18709351;DIOR;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/CHDRY;146343000000;EUR;2024
+18709351;DIOR;WEBSITE;https://financialmodelingprep.com/api/v3/profile/CHDRY;https://www.dior-finance.com;N/A;2024
+18709351;DIOR;ACTIVITY;https://ai.google.dev/gemini-api;G47;N/A;2024
+18712196;AMAZON;COUNTRY;https://financialmodelingprep.com/api/v3/profile/AMZN.NE;US;N/A;2024
+18712196;AMAZON;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/AMZN.NE;1551000;N/A;2024
+18712196;AMAZON;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/AMZN.NE;637959000000;USD;2024
+18712196;AMAZON;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/AMZN.NE;624894000000;USD;2024
+18712196;AMAZON;WEBSITE;https://financialmodelingprep.com/api/v3/profile/AMZN.NE;https://www.amazon.com;N/A;2024
+18712196;AMAZON;ACTIVITY;https://ai.google.dev/gemini-api;G47;N/A;2024
+18715555;SONY GROUP CORPORATION;COUNTRY;https://divvydiary.com/en/sony-group-stock-JP3435000009;JP;N/A;2024
+18715555;SONY GROUP CORPORATION;EMPLOYEES;https://www.sony.com/en/SonyInfo/IR/library/er/pdf/2024/sony_ar2024e.pdf;128400;N/A;2024
+18715555;SONY GROUP CORPORATION;TURNOVER;https://www.sony.com/en/SonyInfo/IR/library/er/pdf/2023_E.pdf;89930000000;USD;2023
+18715555;SONY GROUP CORPORATION;ASSETS;https://www.sony.com/en/SonyInfo/IR/library/er/pdf/2023_E.pdf;235748000000;JPY;2023
+18715555;SONY GROUP CORPORATION;WEBSITE;https://www.sony.co.jp/en/;www.sony.co.jp;N/A;2024
+18715555;SONY GROUP CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+18718848;SONOVA;COUNTRY;https://www.justetf.com/en/stock-profiles/CH0012549785;CH;N/A;2024
+18718848;SONOVA;EMPLOYEES;https://www.sonova.com/sites/default/files/corporate-governance/Sonova_AR24_EN.pdf;17347;N/A;2024
+18718848;SONOVA;TURNOVER;https://www.sonova.com/sites/default/files/2023-05/Sonova_AR23_EN.pdf;3666200000;CHF;2023
+18718848;SONOVA;ASSETS;https://www.sonova.com/sites/default/files/2024-05/Sonova_AR24_EN.pdf;3800000000;CHF;2024
+18718848;SONOVA;WEBSITE;https://www.sonova.com/en;www.sonova.com;N/A;2024
+18718848;SONOVA;ACTIVITY;https://ai.google.dev/gemini-api;C26;N/A;2024
+18731292;IKEA;COUNTRY;https://ai.google.dev/gemini-api;SE;N/A;2024
+18731292;IKEA;EMPLOYEES;https://www.ikea.com/global/assets/investors/IKEA_FR23_Full_Report.pdf;231000;N/A;2023
+18731292;IKEA;TURNOVER;https://www.statista.com/statistics/266078/revenue-of-the-ikea-group-worldwide/;47600000000;EUR;2023
+18731292;IKEA;ASSETS;https://www.inter.ikea.com/newsroom/financial-year-summary/en/;49849000000;EUR;2023
+18731292;IKEA;WEBSITE;https://www.ikea.com/;www.ikea.com;N/A;2024
+18731292;IKEA;ACTIVITY;https://ai.google.dev/gemini-api;F47;N/A;2024
+18736044;SECURITAS AB;COUNTRY;https://www.boerse-frankfurt.de/equity/securitas-ab;SE;N/A;2024
+18736044;SECURITAS AB;EMPLOYEES;https://www.securitas.com/globalassets/0-site-assets/investors/reports/2023/securitas_ar_2023_en.pdf;355000;N/A;2023
+18736044;SECURITAS AB;TURNOVER;https://www.sec.gov/Archives/edgar/data/911245/000110465924049413/a24-13843_120f.htm;168717000000;SEK;2023
+18736044;SECURITAS AB;ASSETS;https://www.sec.gov/Archives/edgar/data/92214/000119312524111538/d70881d20f.htm;60389;SEK;2023
+18736044;SECURITAS AB;WEBSITE;https://www.securitas.com/en/;www.securitas.com;N/A;2024
+18736044;SECURITAS AB;ACTIVITY;https://ai.google.dev/gemini-api;N80;N/A;2024
+18742207;AIRBUS SE;COUNTRY;https://financialmodelingprep.com/api/v3/profile/EADSY;NL;N/A;2024
+18742207;AIRBUS SE;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/EADSY;157894;N/A;2024
+18742207;AIRBUS SE;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/EADSY;69230000000;EUR;2024
+18742207;AIRBUS SE;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/EADSY;129213000000;EUR;2024
+18742207;AIRBUS SE;WEBSITE;https://financialmodelingprep.com/api/v3/profile/EADSY;https://www.airbus.com;N/A;2024
+18742207;AIRBUS SE;ACTIVITY;https://ai.google.dev/gemini-api;C30;N/A;2024
+18745703;ETEX;COUNTRY;https://www.investing.com/equities/etex-sa;BE;N/A;2024
+18745703;ETEX;EMPLOYEES;https://www.etex.com/-/media/Project/Etex/Etex-Website/Annual-Report/2022/Etex-Annual-Report-2022.pdf;13500;N/A;2022
+18745703;ETEX;TURNOVER;https://www.etex.com/-/media/Project/Etex/Etex-Website/Annual-Report/2023/Etex-Annual-Report-2023.pdf;3671000000;EUR;2023
+18745703;ETEX;ASSETS;https://www.etex.com/-/media/Project/Etex/Global/Files/Documents/Etex_Annual_Report_2022.pdf;3343000000;EUR;2022
+18745703;ETEX;WEBSITE;https://www.etexgroup.com/en/;www.etexgroup.com;N/A;2024
+18745703;ETEX;ACTIVITY;https://ai.google.dev/gemini-api;C23;N/A;2024
+18748693;SIEMENS;COUNTRY;https://financialmodelingprep.com/api/v3/profile/SMAWF;DE;N/A;2024
+18748693;SIEMENS;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/SMAWF;313000;N/A;2024
+18748693;SIEMENS;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/SMAWF;75930000000;EUR;2024
+18748693;SIEMENS;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/SMAWF;147812000000;EUR;2024
+18748693;SIEMENS;WEBSITE;https://financialmodelingprep.com/api/v3/profile/SMAWF;https://www.siemens.com;N/A;2024
+18748693;SIEMENS;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+18754669;VODAFONE GROUP PLC;COUNTRY;https://www.fidelity.co.uk/factsheet-data/factsheet/GB00BH4HKS39-vodafone-group/key-statistics;GB;N/A;2024
+18754669;VODAFONE GROUP PLC;EMPLOYEES;https://www.vodafone.com/about/who-we-are;87890;N/A;2023
+18754669;VODAFONE GROUP PLC;TURNOVER;https://www.vodafone.com/investors/results-reports-events/annual-report;36700000000;EUR;2023
+18754669;VODAFONE GROUP PLC;ASSETS;https://www.vodafone.com/investors/results-reports-events/annual-report;126740000000;EUR;2023
+18754669;VODAFONE GROUP PLC;WEBSITE;https://www.vodafone.com/;www.vodafone.com;N/A;2024
+18754669;VODAFONE GROUP PLC;ACTIVITY;https://ai.google.dev/gemini-api;J61;N/A;2024
+18755204;HBIS GROUP CO. LTD.;COUNTRY;https://ai.google.dev/gemini-api;CN;N/A;2024
+18755204;HBIS GROUP CO. LTD.;EMPLOYEES;https://www.hbisco.com/en/about/index.html;124457;N/A;2023
+18755204;HBIS GROUP CO. LTD.;TURNOVER;https://www.hbis.com/attachment/0/768/768799/1431468.PDF;122478000000;CNY;2022
+18755204;HBIS GROUP CO. LTD.;ASSETS;https://www.hbis.com/attachment/0/778/778316/11660447.PDF;479311000000;CNY;2022
+18755204;HBIS GROUP CO. LTD.;WEBSITE;https://www.hbisco.com/en/;www.hbisco.com;N/A;2024
+18755204;HBIS GROUP CO. LTD.;ACTIVITY;https://ai.google.dev/gemini-api;C24;N/A;2024
+18761094;MOL HUNGARIAN OIL AND GAS;COUNTRY;https://www.justetf.com/en/stock-profiles/HU0000153937;HU;N/A;2024
+18761094;MOL HUNGARIAN OIL AND GAS;EMPLOYEES;https://molgroup.info/download/domain/642/mol_group_integrated_annual_report_2023.pdf;9584;N/A;2023
+18761094;MOL HUNGARIAN OIL AND GAS;TURNOVER;https://molgroup.info/download/domain/659/mol_group_annual_report_2023.pdf;10167000000;HUF;2023
+18761094;MOL HUNGARIAN OIL AND GAS;ASSETS;https://mol.hu/en/investor-relations/publications;6548000000000;HUF;2023
+18761094;MOL HUNGARIAN OIL AND GAS;WEBSITE;https://www.molgroup.info/;www.molgroup.info;N/A;2024
+18761094;MOL HUNGARIAN OIL AND GAS;ACTIVITY;https://ai.google.dev/gemini-api;C19;N/A;2024
+18763081;DSV A/S;COUNTRY;https://www.justetf.com/en/stock-profiles/DK0060079531;DK;N/A;2024
+18763081;DSV A/S;EMPLOYEES;https://www.dsv.com/investors/reports-and-presentations;75441;N/A;2023
+18763081;DSV A/S;TURNOVER;https://www.dsv.com/investors/reports-and-presentations;167339000000;DKK;2023
+18763081;DSV A/S;ASSETS;https://www.dsv.com/investors/financial-reports;112818;DKK;2023
+18763081;DSV A/S;WEBSITE;https://www.dsv.com/en/;www.dsv.com;N/A;2024
+18763081;DSV A/S;ACTIVITY;https://ai.google.dev/gemini-api;H52;N/A;2024
+18767600;KRONES;COUNTRY;https://financialmodelingprep.com/api/v3/profile/KRNTY;DE;N/A;2024
+18767600;KRONES;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/KRNTY;20583;N/A;2024
+18767600;KRONES;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/KRNTY;5293557000;EUR;2024
+18767600;KRONES;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/KRNTY;4749469000;EUR;2024
+18767600;KRONES;WEBSITE;https://financialmodelingprep.com/api/v3/profile/KRNTY;https://www.krones.com;N/A;2024
+18767600;KRONES;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+18773773;KONECRANES;COUNTRY;https://financialmodelingprep.com/api/v3/profile/KNCRY;FI;N/A;2024
+18773773;KONECRANES;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/KNCRY;16689;N/A;2024
+18773773;KONECRANES;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/KNCRY;4227000000;EUR;2024
+18773773;KONECRANES;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/KNCRY;4788300000;EUR;2024
+18773773;KONECRANES;WEBSITE;https://financialmodelingprep.com/api/v3/profile/KNCRY;https://www.konecranes.com;N/A;2024
+18773773;KONECRANES;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+18774479;SANDVIK AKTIEBOLAG;COUNTRY;https://www.boerse-frankfurt.de/equity/sandvik-ab;SE;N/A;2024
+18774479;SANDVIK AKTIEBOLAG;EMPLOYEES;https://www.sandvik.com/en/about/our-company/sandvik-in-brief/;40566;N/A;2023
+18774479;SANDVIK AKTIEBOLAG;TURNOVER;https://www.sandvik.com/en/about/financial-information/annual-report/;126624000000;SEK;2023
+18774479;SANDVIK AKTIEBOLAG;ASSETS;https://www.sandvik.com/496dd3/globalassets/annual-reports/sandvik-annual-report-2023.pdf;162414;SEK;2023
+18774479;SANDVIK AKTIEBOLAG;WEBSITE;https://www.home.sandvik/en/;www.home.sandvik;N/A;2024
+18774479;SANDVIK AKTIEBOLAG;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+18774712;SKANSKA AB;COUNTRY;https://financialmodelingprep.com/api/v3/profile/SKSBF;SE;N/A;2024
+18774712;SKANSKA AB;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/SKSBF;25929;N/A;2024
+18774712;SKANSKA AB;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/SKSBF;176481000000;SEK;2024
+18774712;SKANSKA AB;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/SKSBF;171207000000;SEK;2024
+18774712;SKANSKA AB;WEBSITE;https://financialmodelingprep.com/api/v3/profile/SKSBF;https://www.skanska.com;N/A;2024
+18774712;SKANSKA AB;ACTIVITY;https://ai.google.dev/gemini-api;F41;N/A;2024
+18774867;SANOFI;COUNTRY;https://financialmodelingprep.com/api/v3/profile/SNYNF;FR;N/A;2024
+18774867;SANOFI;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/SNYNF;82878;N/A;2024
+18774867;SANOFI;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/SNYNF;44286000000;EUR;2024
+18774867;SANOFI;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/SNYNF;132798000000;EUR;2024
+18774867;SANOFI;WEBSITE;https://financialmodelingprep.com/api/v3/profile/SNYNF;https://www.sanofi.com;N/A;2024
+18774867;SANOFI;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+18778752;WURTH;COUNTRY;https://www.boerse-frankfurt.de/bond/xs2176534795-wuerth-finance-international-b-v-0-75-20-27?mic=XFRA;XS;N/A;2024
+18778752;WURTH;EMPLOYEES;https://www.wurth.com/web/en/wuerthcom/company/facts_and_figures/facts_and_figures.php;87047;N/A;2023
+18778752;WURTH;TURNOVER;https://www.wurth.com/web/en/wurthcom/company/facts_and_figures/facts_and_figures.php;16267000000;EUR;2023
+18778752;WURTH;ASSETS;https://www.wurth.com/web/en/wuerthcom/konzern/investoren/finanzberichte/finanzberichte.php;7817000000;EUR;2022
+18778752;WURTH;WEBSITE;https://www.wurth.es/?srsltid=AfmBOoo8UynS4rRWKIXqKMalYI9L7BglAP8nNN0SML6dlAc4hoFQblWI;www.wurth.es;N/A;2024
+18778752;WURTH;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+18784770;AKTIEBOLAGET VOLVO;COUNTRY;https://www.boerse-frankfurt.de/equity/volvo-ab-b?mic=XFRA;SE;N/A;2024
+18784770;AKTIEBOLAGET VOLVO;EMPLOYEES;https://www.volvogroup.com/en/about-us.html;95000;N/A;2023
+18784770;AKTIEBOLAGET VOLVO;TURNOVER;https://www.volvogroup.com/content/dam/volvo-group/markets/global/en-en/investors/reports-and-presentations/annual-reports/volvo-group-annual-report-2023.pdf;553058000000;SEK;2023
+18784770;AKTIEBOLAGET VOLVO;ASSETS;https://www.volvogroup.com/content/dam/volvo-group/global/en-gb/investors/reports-and-presentations/annual-reports/volvo-group-annual-report-2023.pdf;626730000000;SEK;2023
+18784770;AKTIEBOLAGET VOLVO;WEBSITE;https://www.volvo.com/en/;www.volvo.com;N/A;2024
+18784770;AKTIEBOLAGET VOLVO;ACTIVITY;https://ai.google.dev/gemini-api;C29;N/A;2024
+18796310;TOTALENERGIES SE;COUNTRY;https://financialmodelingprep.com/api/v3/profile/TTFNF;FR;N/A;2024
+18796310;TOTALENERGIES SE;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/TTFNF;95393;N/A;2024
+18796310;TOTALENERGIES SE;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/TTFNF;195610000000;USD;2024
+18796310;TOTALENERGIES SE;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/TTFNF;285487000000;USD;2024
+18796310;TOTALENERGIES SE;WEBSITE;https://financialmodelingprep.com/api/v3/profile/TTFNF;https://www.totalenergies.com;N/A;2024
+18796310;TOTALENERGIES SE;ACTIVITY;https://ai.google.dev/gemini-api;B06;N/A;2024
+18802249;BRITISH AMERICAN TOBACCO PLC;COUNTRY;https://www.fidelity.co.uk/factsheet-data/factsheet/GB0002875804-british-american-tobacco/key-statistics;GB;N/A;2024
+18802249;BRITISH AMERICAN TOBACCO PLC;EMPLOYEES;https://www.bat.com/annual-report;47844;N/A;2023
+18802249;BRITISH AMERICAN TOBACCO PLC;TURNOVER;https://www.bat.com/annual-report;27285000000;GBP;2023
+18802249;BRITISH AMERICAN TOBACCO PLC;ASSETS;https://www.bat.com/annualreport;122794000000;GBP;2023
+18802249;BRITISH AMERICAN TOBACCO PLC;WEBSITE;https://www.bat.com/;www.bat.com;N/A;2024
+18802249;BRITISH AMERICAN TOBACCO PLC;ACTIVITY;https://ai.google.dev/gemini-api;C12;N/A;2024
+18803013;NIPPON STEEL CORPORATION;COUNTRY;https://financialmodelingprep.com/api/v3/profile/NPSCY;JP;N/A;2024
+18803013;NIPPON STEEL CORPORATION;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/NPSCY;113639;N/A;2024
+18803013;NIPPON STEEL CORPORATION;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/NPSCY;8868097000000;JPY;2024
+18803013;NIPPON STEEL CORPORATION;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/NPSCY;10714627000000;JPY;2024
+18803013;NIPPON STEEL CORPORATION;WEBSITE;https://financialmodelingprep.com/api/v3/profile/NPSCY;https://www.nipponsteel.com;N/A;2024
+18803013;NIPPON STEEL CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;C24;N/A;2024
+18805524;KONINKLIJKE AHOLD DELHAIZE NV;COUNTRY;https://live.euronext.com/en/product/equities/NL0011794037-XAMS;NL;N/A;2024
+18805524;KONINKLIJKE AHOLD DELHAIZE NV;EMPLOYEES;https://www.aholddelhaize.com/en/about-us/our-company/;410000;N/A;2023
+18805524;KONINKLIJKE AHOLD DELHAIZE NV;TURNOVER;https://www.aholddelhaize.com/en/news/press-releases/2024/ahold-delhaize-reports-strong-q4-results-and-provides-full-year-2024-outlook/;88680000000;EUR;2023
+18805524;KONINKLIJKE AHOLD DELHAIZE NV;ASSETS;https://www.aholddelhaize.com/en/investors/annual-reports/;55321000000;EUR;2023
+18805524;KONINKLIJKE AHOLD DELHAIZE NV;WEBSITE;https://www.aholddelhaize.com/;www.aholddelhaize.com;N/A;2024
+18805524;KONINKLIJKE AHOLD DELHAIZE NV;ACTIVITY;https://ai.google.dev/gemini-api;G47;N/A;2024
+18808977;PFIZER INC;COUNTRY;https://financialmodelingprep.com/api/v3/profile/PFE.NE;US;N/A;2024
+18808977;PFIZER INC;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/PFE.NE;81000;N/A;2024
+18808977;PFIZER INC;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/PFE.NE;63627000000;USD;2024
+18808977;PFIZER INC;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/PFE.NE;213396000000;USD;2024
+18808977;PFIZER INC;WEBSITE;https://financialmodelingprep.com/api/v3/profile/PFE.NE;https://www.pfizer.com;N/A;2024
+18808977;PFIZER INC;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+18812865;COCA-COLA COMPANY (THE);COUNTRY;https://divvydiary.com/en/coca-cola-stock-US1912161007;US;N/A;2024
+18812865;COCA-COLA COMPANY (THE);EMPLOYEES;https://www.coca-colacompany.com/investors/2023-annual-report;79100;N/A;2023
+18812865;COCA-COLA COMPANY (THE);TURNOVER;https://www.coca-colacompany.com/investors/financial-reports;45754000000;USD;2023
+18812865;COCA-COLA COMPANY (THE);ASSETS;https://www.sec.gov/Archives/edgar/data/21344/000002134424000014/ko-20231231.htm;97727000000;USD;2023
+18812865;COCA-COLA COMPANY (THE);WEBSITE;https://www.coca-colacompany.com/;www.coca-colacompany.com;N/A;2024
+18812865;COCA-COLA COMPANY (THE);ACTIVITY;https://ai.google.dev/gemini-api;C11;N/A;2024
+18813820;CATERPILLAR INC;COUNTRY;https://etp.morganstanley.com/fr/en/underlying-details/cat_us_equity;US;N/A;2024
+18813820;CATERPILLAR INC;EMPLOYEES;https://s1.q4cdn.com/070754992/files/doc_financials/2023/ar/CAT-2023-Annual-Report.pdf;109100;N/A;2023
+18813820;CATERPILLAR INC;TURNOVER;https://s7d2.scene7.com/is/content/Caterpillar/CM20240321-a3f8c-4b328;67056000000;USD;2023
+18813820;CATERPILLAR INC;ASSETS;https://s1.q4cdn.com/207542299/files/doc_financials/2023/ar/CAT-2023-Annual-Report.pdf;84949000000;USD;2023
+18813820;CATERPILLAR INC;WEBSITE;https://www.caterpillar.com/;www.caterpillar.com;N/A;2024
+18813820;CATERPILLAR INC;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+18818179;HARTMANN;COUNTRY;https://www.boerse-frankfurt.de/equity/paul-hartmann-ag?mic=XFRA;DE;N/A;2024
+18818179;HARTMANN;EMPLOYEES;https://hartmann.info/en-gb/company/hartmann-group/profile;4795;N/A;2023
+18818179;HARTMANN;TURNOVER;https://www.hartmann-group.com/en-gb/investors/publications;2336000000;EUR;2023
+18818179;HARTMANN;ASSETS;https://www.hartmann.info/sites/hartmann_com/files/media/documents/HARTMANN_Annual_Report_2022.pdf;2143400;EUR;2022
+18818179;HARTMANN;WEBSITE;https://www.hartmann.info/en/;www.hartmann.info;N/A;2024
+18818179;HARTMANN;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+18818842;IWG PLC;COUNTRY;https://www.boerse-frankfurt.de/equity/iwg-plc-dl-0124;JE;N/A;2024
+18818842;IWG PLC;EMPLOYEES;https://www.iwgplc.com/investors/annual-report;12000;N/A;2023
+18818842;IWG PLC;TURNOVER;https://www.iwgplc.com/investors/results-reports-and-presentations;3484400000;GBP;2023
+18818842;IWG PLC;ASSETS;https://www.iwgplc.com/investors/results-centre;7883000000;GBP;2023
+18818842;IWG PLC;WEBSITE;https://www.iwgplc.com/;www.iwgplc.com;N/A;2024
+18818842;IWG PLC;ACTIVITY;https://ai.google.dev/gemini-api;N82;N/A;2024
+18831586;SAP;COUNTRY;https://financialmodelingprep.com/api/v3/profile/SAPGF;DE;N/A;2024
+18831586;SAP;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/SAPGF;108187;N/A;2024
+18831586;SAP;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/SAPGF;34176000000;EUR;2024
+18831586;SAP;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/SAPGF;74122000000;EUR;2024
+18831586;SAP;WEBSITE;https://financialmodelingprep.com/api/v3/profile/SAPGF;https://www.sap.com;N/A;2024
+18831586;SAP;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+18839233;ORKLA ASA;COUNTRY;https://live.euronext.com/en/product/equities/NO0003733800-XOSL;NO;N/A;2024
+18839233;ORKLA ASA;EMPLOYEES;https://www.orkla.com/investors/annual-reports/;21423;N/A;2023
+18839233;ORKLA ASA;TURNOVER;https://www.orkla.com/investors/financial-reporting/;67604000000;NOK;2023
+18839233;ORKLA ASA;ASSETS;https://www.orkla.com/investors/financial-reporting/;83291;NOK;2023
+18839233;ORKLA ASA;WEBSITE;https://www.orkla.com/;www.orkla.com;N/A;2024
+18839233;ORKLA ASA;ACTIVITY;https://ai.google.dev/gemini-api;C10;N/A;2024
+18850720;ENEL SPA;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ESOCF;IT;N/A;2024
+18850720;ENEL SPA;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ESOCF;60584;N/A;2024
+18850720;ENEL SPA;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ESOCF;70649000000;EUR;2024
+18850720;ENEL SPA;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ESOCF;187139000000;EUR;2024
+18850720;ENEL SPA;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ESOCF;https://www.enel.com;N/A;2024
+18850720;ENEL SPA;ACTIVITY;https://ai.google.dev/gemini-api;D35;N/A;2024
+18853782;SHV HOLDINGS NV;COUNTRY;https://ai.google.dev/gemini-api;NL;N/A;2024
+18853782;SHV HOLDINGS NV;EMPLOYEES;https://www.shv.nl/en/about-shv;60000;N/A;2023
+18853782;SHV HOLDINGS NV;TURNOVER;https://www.shv.nl/annual-report-2022;20100000000;EUR;2022
+18853782;SHV HOLDINGS NV;ASSETS;https://ai.google.dev/gemini-api;0;EUR;
+18853782;SHV HOLDINGS NV;WEBSITE;https://www.shv.nl/;www.shv.nl;N/A;2024
+18853782;SHV HOLDINGS NV;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+18854880;BMW;COUNTRY;https://live.euronext.com/en/product/equities/DE0005190003-BGEM/market-information;DE;N/A;2024
+18854880;BMW;EMPLOYEES;https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2024/BMW_Group_Report_2023.pdf;154950;N/A;2023
+18854880;BMW;TURNOVER;https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2023/BMW_Group_Report_2023.pdf;111239000000;EUR;2023
+18854880;BMW;ASSETS;https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2023/BMW_Group_Annual_Report_2023.pdf;281274000000;EUR;2023
+18854880;BMW;WEBSITE;https://www.bmw.es/es/home.html;www.bmw.es;N/A;2024
+18854880;BMW;ACTIVITY;https://ai.google.dev/gemini-api;C29;N/A;2024
+18858533;THALES;COUNTRY;https://live.euronext.com/en/product/equities/FR0000121329-XPAR;FR;N/A;2024
+18858533;THALES;EMPLOYEES;https://www.thalesgroup.com/en/group/strategy;80000;N/A;2023
+18858533;THALES;TURNOVER;https://www.thalesgroup.com/sites/default/files/2024-02/Thales_2023_Universal_Registration_Document.pdf;18428000000;EUR;2023
+18858533;THALES;ASSETS;https://www.thalesgroup.com/sites/default/files/2024-03/Thales_Annual_Report_2023.pdf;39279;EUR;2023
+18858533;THALES;WEBSITE;https://www.thalesgroup.com/en;www.thalesgroup.com;N/A;2024
+18858533;THALES;ACTIVITY;https://ai.google.dev/gemini-api;C30;N/A;2024
+18860034;SIGNIFY NV;COUNTRY;https://live.euronext.com/en/product/equities/NL0011821392-XAMS;NL;N/A;2024
+18860034;SIGNIFY NV;EMPLOYEES;https://www.signify.com/global/our-company/about/facts-and-figures;32417;N/A;2023
+18860034;SIGNIFY NV;TURNOVER;https://www.signify.com/global/our-company/annual-report;6685000000;EUR;2023
+18860034;SIGNIFY NV;ASSETS;https://www.signify.com/globalassets/2.-about/investors/signify-annual-report-2023.pdf;6214;EUR;2023
+18860034;SIGNIFY NV;WEBSITE;https://www.signify.com/global;www.signify.com;N/A;2024
+18860034;SIGNIFY NV;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+18864084;3I GROUP PLC;COUNTRY;https://financialmodelingprep.com/api/v3/profile/TGOPY;GB;N/A;2024
+18864084;3I GROUP PLC;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/TGOPY;249;N/A;2024
+18864084;3I GROUP PLC;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/TGOPY;3984000000;GBP;2024
+18864084;3I GROUP PLC;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/TGOPY;21641000000;GBP;2024
+18864084;3I GROUP PLC;WEBSITE;https://financialmodelingprep.com/api/v3/profile/TGOPY;https://www.3i.com;N/A;2024
+18864084;3I GROUP PLC;ACTIVITY;https://ai.google.dev/gemini-api;K64;N/A;2024
+18876900;BAYER;COUNTRY;https://live.euronext.com/en/product/equities/DE000BAY0017-BGEM/market-information;DE;N/A;2024
+18876900;BAYER;EMPLOYEES;https://www.bayer.com/wp-content/uploads/2024/03/BAYER_AR23_E.pdf;99637;N/A;2023
+18876900;BAYER;TURNOVER;https://www.bayer.com/wp-content/uploads/2024/03/bayer-annual-report-2023.pdf;50739000000;EUR;2023
+18876900;BAYER;ASSETS;https://www.bayer.com/wp-content/uploads/2024/03/bayer-annual-report-2023.pdf#page=201;146043000000;EUR;2023
+18876900;BAYER;WEBSITE;https://www.bayer.com/en/;www.bayer.com;N/A;2024
+18876900;BAYER;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+18877286;AKTIEBOLAGET ELECTROLUX;COUNTRY;https://divvydiary.com/en/electrolux-stock-SE0016589170;SE;N/A;2024
+18877286;AKTIEBOLAGET ELECTROLUX;EMPLOYEES;https://www.electroluxgroup.com/en/wp-content/uploads/sites/2/2024/03/Electrolux-Annual-Report-2023.pdf;49027;N/A;2023
+18877286;AKTIEBOLAGET ELECTROLUX;TURNOVER;https://www.electroluxgroup.com/en/wp-content/uploads/sites/2/2024/03/Electrolux-Annual-Report-2023.pdf;134451000000;SEK;2023
+18877286;AKTIEBOLAGET ELECTROLUX;ASSETS;https://www.electroluxgroup.com/en/wp-content/uploads/sites/2/2024/03/Annual-Report-2023.pdf;124812000000;SEK;2023
+18877286;AKTIEBOLAGET ELECTROLUX;WEBSITE;https://www.electroluxgroup.com/en/;www.electroluxgroup.com;N/A;2024
+18877286;AKTIEBOLAGET ELECTROLUX;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+18886469;VEOLIA ENVIRONNEMENT;COUNTRY;https://live.euronext.com/en/product/equities/FR0000124141-XPAR;FR;N/A;2024
+18886469;VEOLIA ENVIRONNEMENT;EMPLOYEES;https://www.veolia.com/sites/g/files/imdjmd436/files/2024-03/Veolia_URD_2023_VF.pdf;213414;N/A;2023
+18886469;VEOLIA ENVIRONNEMENT;TURNOVER;https://www.veolia.com/sites/g/files/imdjmd221/files/2024-03/Veolia_URD_2023_VA.pdf;45351000000;EUR;2023
+18886469;VEOLIA ENVIRONNEMENT;ASSETS;https://www.veolia.com/sites/g/files/imdjmd446/files/2024-03/Veolia_URD_2023_VF.pdf;47441000000;EUR;2023
+18886469;VEOLIA ENVIRONNEMENT;WEBSITE;https://www.veolia.com/en;www.veolia.com;N/A;2024
+18886469;VEOLIA ENVIRONNEMENT;ACTIVITY;https://ai.google.dev/gemini-api;E36;N/A;2024
+18898974;TUI;COUNTRY;https://live.euronext.com/en/product/equities/DE000TUAG505-MTAH/market-information;DE;N/A;2024
+18898974;TUI;EMPLOYEES;https://www.tui.com/fileadmin/content/TUI-Group/investors/reports/TUI_Group_Annual_Report_2023.pdf;54424;N/A;2023
+18898974;TUI;TURNOVER;https://www.tuigroup.com/en-en/investors/reports-and-events/annual-report;20664000000;EUR;2023
+18898974;TUI;ASSETS;https://www.tui.com/fileadmin/content/IR/reports/TUI_Annual_Report_2023.pdf;17899000000;EUR;2023
+18898974;TUI;WEBSITE;https://www.tui.co.uk/;www.tui.co.uk;N/A;2024
+18898974;TUI;ACTIVITY;https://ai.google.dev/gemini-api;G47;N/A;2024
+18901386;ASSA ABLOY AB;COUNTRY;https://www.boerse-frankfurt.de/equity/assa-abloy-ab;SE;N/A;2024
+18901386;ASSA ABLOY AB;EMPLOYEES;https://www.assaabloy.com/group/en/about-us;52000;N/A;2023
+18901386;ASSA ABLOY AB;TURNOVER;https://www.assaabloy.com/group/en/about-us/financial-reports;140541000000;SEK;2023
+18901386;ASSA ABLOY AB;ASSETS;https://www.assaabloy.com/group/en/investors/financial-reports;114894000000;SEK;2023
+18901386;ASSA ABLOY AB;WEBSITE;https://www.assaabloy.com/group/en;www.assaabloy.com;N/A;2024
+18901386;ASSA ABLOY AB;ACTIVITY;https://ai.google.dev/gemini-api;C25;N/A;2024
+18908258;RANDSTAD NV;COUNTRY;https://live.euronext.com/en/product/equities/NL0000379121-XAMS;NL;N/A;2024
+18908258;RANDSTAD NV;EMPLOYEES;https://www.randstad.com/annual-report/2023/performance/;39530;N/A;2023
+18908258;RANDSTAD NV;TURNOVER;https://www.randstad.com/annual-report-2023/;27563000000;EUR;2023
+18908258;RANDSTAD NV;ASSETS;https://www.randstad.com/global-annual-report-2023/;26398000000;EUR;2023
+18908258;RANDSTAD NV;WEBSITE;https://www.randstad.com/;www.randstad.com;N/A;2024
+18908258;RANDSTAD NV;ACTIVITY;https://ai.google.dev/gemini-api;N78;N/A;2024
+18918108;NV BEKAERT SA;COUNTRY;https://financialmodelingprep.com/api/v3/profile/BEKSF;BE;N/A;2024
+18918108;NV BEKAERT SA;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/BEKSF;19456;N/A;2024
+18918108;NV BEKAERT SA;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/BEKSF;3957814000;EUR;2024
+18918108;NV BEKAERT SA;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/BEKSF;4161887000;EUR;2024
+18918108;NV BEKAERT SA;WEBSITE;https://financialmodelingprep.com/api/v3/profile/BEKSF;https://www.bekaert.com;N/A;2024
+18918108;NV BEKAERT SA;ACTIVITY;https://ai.google.dev/gemini-api;C24;N/A;2024
+18919705;MANPOWERGROUP INC.;COUNTRY;https://financialmodelingprep.com/api/v3/profile/MAN;US;N/A;2024
+18919705;MANPOWERGROUP INC.;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/MAN;26700;N/A;2024
+18919705;MANPOWERGROUP INC.;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/MAN;17853900000;USD;2024
+18919705;MANPOWERGROUP INC.;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/MAN;8201000000;USD;2024
+18919705;MANPOWERGROUP INC.;WEBSITE;https://financialmodelingprep.com/api/v3/profile/MAN;https://www.manpowergroup.com;N/A;2024
+18919705;MANPOWERGROUP INC.;ACTIVITY;https://ai.google.dev/gemini-api;N78;N/A;2024
+18928008;PARAMOUNT GLOBAL;COUNTRY;https://financialmodelingprep.com/api/v3/profile/VIACP;US;N/A;2024
+18928008;PARAMOUNT GLOBAL;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/VIACP;22109;N/A;2024
+18928008;PARAMOUNT GLOBAL;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/VIACP;29213000000;USD;2024
+18928008;PARAMOUNT GLOBAL;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/VIACP;46172000000;USD;2024
+18928008;PARAMOUNT GLOBAL;WEBSITE;https://financialmodelingprep.com/api/v3/profile/VIACP;https://www.viacomcbs.com;N/A;2024
+18928008;PARAMOUNT GLOBAL;ACTIVITY;https://ai.google.dev/gemini-api;J59;N/A;2024
+18930611;GLENCORE PLC;COUNTRY;https://financialmodelingprep.com/api/v3/profile/GLNCY;CH;N/A;2024
+18930611;GLENCORE PLC;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/GLNCY;84146;N/A;2024
+18930611;GLENCORE PLC;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/GLNCY;230944000000;USD;2024
+18930611;GLENCORE PLC;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/GLNCY;130460000000;USD;2024
+18930611;GLENCORE PLC;WEBSITE;https://financialmodelingprep.com/api/v3/profile/GLNCY;https://www.glencore.com;N/A;2024
+18930611;GLENCORE PLC;ACTIVITY;https://ai.google.dev/gemini-api;C19;N/A;2024
+18931004;DEUTSCHE LUFTHANSA;COUNTRY;https://etp.morganstanley.com/fr/en/underlying-details/lha_gy_equity;DE;N/A;2024
+18931004;DEUTSCHE LUFTHANSA;EMPLOYEES;https://investor-relations.lufthansagroup.com/fileadmin/downloads/en/annual-reports/lufthansa-ar-2023-e.pdf;109509;N/A;2023
+18931004;DEUTSCHE LUFTHANSA;TURNOVER;https://investor-relations.lufthansagroup.com/download/companies/lufthansa/Annual%20Reports/DE0008232125-JA-2023-EQ-E-00.pdf;35442000000;EUR;2023
+18931004;DEUTSCHE LUFTHANSA;ASSETS;https://investor-relations.lufthansagroup.com/download/companies/lufthansa/Annual%20Reports/DE0008232125-JA-2023-E-00.pdf;43494000000;EUR;2023
+18931004;DEUTSCHE LUFTHANSA;WEBSITE;https://www.lufthansa.com/;www.lufthansa.com;N/A;2024
+18931004;DEUTSCHE LUFTHANSA;ACTIVITY;https://ai.google.dev/gemini-api;H51;N/A;2024
+18935271;TELEFONAKTIEBOLAGET LM ERICSSON;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ERIXF;SE;N/A;2024
+18935271;TELEFONAKTIEBOLAGET LM ERICSSON;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ERIXF;92866;N/A;2024
+18935271;TELEFONAKTIEBOLAGET LM ERICSSON;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ERIXF;247880000000;SEK;2024
+18935271;TELEFONAKTIEBOLAGET LM ERICSSON;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ERIXF;292374000000;SEK;2024
+18935271;TELEFONAKTIEBOLAGET LM ERICSSON;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ERIXF;https://www.ericsson.com;N/A;2024
+18935271;TELEFONAKTIEBOLAGET LM ERICSSON;ACTIVITY;https://ai.google.dev/gemini-api;J61;N/A;2024
+18940840;ABB LTD;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ABLZF;CH;N/A;2024
+18940840;ABB LTD;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ABLZF;110970;N/A;2024
+18940840;ABB LTD;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ABLZF;32850000000;USD;2024
+18940840;ABB LTD;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ABLZF;40357000000;USD;2024
+18940840;ABB LTD;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ABLZF;https://www.global.abb/group/en;N/A;2024
+18940840;ABB LTD;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+18942704;HP INC.;COUNTRY;https://www.boerse-frankfurt.de/equity/hp-inc?mic=XFRA;US;N/A;2024
+18942704;HP INC.;EMPLOYEES;https://www.hp.com/us-en/investor/home.html;58000;N/A;2023
+18942704;HP INC.;TURNOVER;https://investor.hp.com/financials/sec-filings/default.aspx;53700000000;USD;2023
+18942704;HP INC.;ASSETS;https://investor.hp.com/financials/sec-filings/default.aspx;32499000000;USD;2023
+18942704;HP INC.;WEBSITE;https://www.hp.com/us-en/home.html;www.hp.com;N/A;2024
+18942704;HP INC.;ACTIVITY;https://ai.google.dev/gemini-api;C26;N/A;2024
+18947387;CAPGEMINI;COUNTRY;https://financialmodelingprep.com/api/v3/profile/CGEMY;FR;N/A;2024
+18947387;CAPGEMINI;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/CGEMY;341118;N/A;2024
+18947387;CAPGEMINI;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/CGEMY;22096000000;EUR;2024
+18947387;CAPGEMINI;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/CGEMY;25660000000;EUR;2024
+18947387;CAPGEMINI;WEBSITE;https://financialmodelingprep.com/api/v3/profile/CGEMY;https://www.capgemini.com;N/A;2024
+18947387;CAPGEMINI;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+18953431;MERCK GROUP;COUNTRY;https://live.euronext.com/en/product/equities/DE0006599905-BGEM/market-information;DE;N/A;2024
+18953431;MERCK GROUP;EMPLOYEES;https://www.merckgroup.com/en/annual-report/2023/notes-to-the-consolidated-financial-statements/employees.html;62844;N/A;2023
+18953431;MERCK GROUP;TURNOVER;https://www.merckgroup.com/en/investors/reports-presentations.html;42229000000;EUR;2023
+18953431;MERCK GROUP;ASSETS;https://www.merckgroup.com/content/dam/web/corporate/non-images/company/investors/reports/Merck_AR23.pdf;74374000000;EUR;2023
+18953431;MERCK GROUP;WEBSITE;https://www.merckgroup.com/en;www.merckgroup.com;N/A;2024
+18953431;MERCK GROUP;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+18953450;BPOST;COUNTRY;https://financialmodelingprep.com/api/v3/profile/BPOSY;BE;N/A;2024
+18953450;BPOST;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/BPOSY;36527;N/A;2024
+18953450;BPOST;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/BPOSY;4328700000;EUR;2024
+18953450;BPOST;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/BPOSY;5354400000;EUR;2024
+18953450;BPOST;WEBSITE;https://financialmodelingprep.com/api/v3/profile/BPOSY;https://www.bpost.be;N/A;2024
+18953450;BPOST;ACTIVITY;https://ai.google.dev/gemini-api;H49;N/A;2024
+18957222;SYNLAB;COUNTRY;https://divvydiary.com/en/synlab-stock-DE000A2TSL71;DE;N/A;2024
+18957222;SYNLAB;EMPLOYEES;https://www.synlab.com/fileadmin/media/investorrelations/SYNLAB_AR2023_secured.pdf;28000;N/A;2023
+18957222;SYNLAB;TURNOVER;https://www.synlab.com/fileadmin/media/investorrelations/financialreports/SYNLAB_Annual_Report_2023.pdf;3251000000;EUR;2023
+18957222;SYNLAB;ASSETS;https://www.synlab.com/fileadmin/media/investors/SYNLAB_Annual_Report_2022.pdf;3743000000;EUR;2022
+18957222;SYNLAB;WEBSITE;https://synlab.es/;synlab.es;N/A;2024
+18957222;SYNLAB;ACTIVITY;https://ai.google.dev/gemini-api;Q86;N/A;2024
+18959709;L AIR LIQUIDE;COUNTRY;https://live.euronext.com/en/product/equities/FR0000120073-XPAR;FR;N/A;2024
+18959709;L AIR LIQUIDE;EMPLOYEES;https://www.airliquide.com/sites/airliquide.com/files/2024-03/2023-urd-air-liquide.pdf;67944;N/A;2023
+18959709;L AIR LIQUIDE;TURNOVER;https://www.airliquide.com/sites/airliquide.com/files/2024-02/air-liquide-annual-report-2023.pdf;27561000000;EUR;2023
+18959709;L AIR LIQUIDE;ASSETS;https://www.airliquide.com/sites/airliquide.com/files/2024-03/air-liquide-2023-universal-registration-document.pdf;56834000000;EUR;2023
+18959709;L AIR LIQUIDE;WEBSITE;https://www.airliquide.com/;www.airliquide.com;N/A;2024
+18959709;L AIR LIQUIDE;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+18959832;MOEVE;COUNTRY;https://www.moeveglobal.com/en/investors/ratings-debt-issuances;XS;N/A;2024
+18959832;MOEVE;EMPLOYEES;https://www.moeve.com/en/company/;60;N/A;2022
+18959832;MOEVE;TURNOVER;;;;
+18959832;MOEVE;ASSETS;;;;
+18959832;MOEVE;WEBSITE;http://www.moeveglobal.com/en/;www.moeveglobal.com;N/A;2024
+18959832;MOEVE;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+18967691;GOODYEAR TIRE & RUBBER CO;COUNTRY;https://www.boerse-frankfurt.de/equity/goodyear-tire-rubber-co;US;N/A;2024
+18967691;GOODYEAR TIRE & RUBBER CO;EMPLOYEES;;62000;N/A;2019
+18967691;GOODYEAR TIRE & RUBBER CO;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/GTPPP;14745000000;USD;2019
+18967691;GOODYEAR TIRE & RUBBER CO;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/GTPPP;17185000000;USD;2019
+18967691;GOODYEAR TIRE & RUBBER CO;WEBSITE;https://www.goodyear.com/;www.goodyear.com;N/A;2024
+18967691;GOODYEAR TIRE & RUBBER CO;ACTIVITY;https://ai.google.dev/gemini-api;C22;N/A;2024
+18970979;BROOKFIELD CORPORATION;COUNTRY;https://www.boerse-frankfurt.de/equity/brookfield-corp-cl-a?mic=XFRA;CA;N/A;2024
+18970979;BROOKFIELD CORPORATION;EMPLOYEES;https://www.brookfield.com/press-releases/2024/02-08-2024-170000625;230000;N/A;2023
+18970979;BROOKFIELD CORPORATION;TURNOVER;https://www.brookfield.com/sites/default/files/2024-02/Brookfield%20Corporation%20Q4%202023%20Shareholders%20Letter.pdf;97888000000;USD;2023
+18970979;BROOKFIELD CORPORATION;ASSETS;https://bam.brookfield.com/-/media/Brookfield/Files/Reports-and-Filings/BAM/BAM-Q4-2023-Supplemental-Information.pdf;1034810000000;USD;2023
+18970979;BROOKFIELD CORPORATION;WEBSITE;https://bn.brookfield.com/;bn.brookfield.com;N/A;2024
+18970979;BROOKFIELD CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;K64;N/A;2024
+18974095;UMICORE;COUNTRY;https://financialmodelingprep.com/api/v3/profile/UMICY;BE;N/A;2024
+18974095;UMICORE;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/UMICY;11251;N/A;2024
+18974095;UMICORE;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/UMICY;14853700000;EUR;2024
+18974095;UMICORE;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/UMICY;9411500000;EUR;2024
+18974095;UMICORE;WEBSITE;https://financialmodelingprep.com/api/v3/profile/UMICY;https://www.umicore.com;N/A;2024
+18974095;UMICORE;ACTIVITY;https://ai.google.dev/gemini-api;C24;N/A;2024
+18976475;KONE;COUNTRY;https://financialmodelingprep.com/api/v3/profile/KNYJY;FI;N/A;2024
+18976475;KONE;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/KNYJY;63852;N/A;2024
+18976475;KONE;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/KNYJY;11098400000;EUR;2024
+18976475;KONE;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/KNYJY;9284300000;EUR;2024
+18976475;KONE;WEBSITE;https://financialmodelingprep.com/api/v3/profile/KNYJY;https://www.kone.com;N/A;2024
+18976475;KONE;ACTIVITY;https://ai.google.dev/gemini-api;F43;N/A;2024
+18980415;MICROSOFT CORPORATION;COUNTRY;https://financialmodelingprep.com/api/v3/profile/MSFT.NE;US;N/A;2024
+18980415;MICROSOFT CORPORATION;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/MSFT.NE;228000;N/A;2024
+18980415;MICROSOFT CORPORATION;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/MSFT.NE;245122000000;USD;2024
+18980415;MICROSOFT CORPORATION;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/MSFT.NE;512163000000;USD;2024
+18980415;MICROSOFT CORPORATION;WEBSITE;https://financialmodelingprep.com/api/v3/profile/MSFT.NE;https://www.microsoft.com;N/A;2024
+18980415;MICROSOFT CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+18981199;GSK PLC;COUNTRY;https://www.boerse-frankfurt.de/equity/gsk-plc-ls-3125?mic=XFRA;GB;N/A;2024
+18981199;GSK PLC;EMPLOYEES;https://www.gsk.com/media/11147/annual-report-2023.pdf;70409;N/A;2023
+18981199;GSK PLC;TURNOVER;https://www.gsk.com/media/11309/annual-report-2023.pdf;30331000000;GBP;2023
+18981199;GSK PLC;ASSETS;https://www.gsk.com/media/11027/annual-report-2023.pdf;84207;GBP;2023
+18981199;GSK PLC;WEBSITE;https://www.gsk.com/en-gb/home/;www.gsk.com;N/A;2024
+18981199;GSK PLC;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+18984365;NOKIA;COUNTRY;https://live.euronext.com/en/product/equities/FI0009000681-XPAR;FI;N/A;2024
+18984365;NOKIA;EMPLOYEES;https://www.nokia.com/system/files/2024-01/nokia_corporation_financial_report_2023.pdf;86754;N/A;2023
+18984365;NOKIA;TURNOVER;https://www.nokia.com/system/files/2024-01/nokia-corporation-financial-report-2023.pdf;22202000000;EUR;2023
+18984365;NOKIA;ASSETS;https://www.nokia.com/system/files/2024-01/nokia-corporation-financial-report-2023.pdf;46131;EUR;2023
+18984365;NOKIA;WEBSITE;https://www.nokia.com/;www.nokia.com;N/A;2024
+18984365;NOKIA;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+18984744;MONDELEZ INTERNATIONAL INC.;COUNTRY;https://www.boerse-frankfurt.de/equity/mondelez-international-inc;US;N/A;2024
+18984744;MONDELEZ INTERNATIONAL INC.;EMPLOYEES;https://www.mondelezinternational.com/newsroom/news/2024/mondelez-international-reports-q4-and-full-year-2023-results;91000;N/A;2023
+18984744;MONDELEZ INTERNATIONAL INC.;TURNOVER;https://www.mondelezinternational.com/investors/financial-information/annual-reports;36016000000;USD;2023
+18984744;MONDELEZ INTERNATIONAL INC.;ASSETS;https://www.sec.gov/Archives/edgar/data/1103982/000110398224000014/mdlz-20231231.htm;97410000000;USD;2023
+18984744;MONDELEZ INTERNATIONAL INC.;WEBSITE;https://www.mondelezinternational.com/;www.mondelezinternational.com;N/A;2024
+18984744;MONDELEZ INTERNATIONAL INC.;ACTIVITY;https://ai.google.dev/gemini-api;C10;N/A;2024
+18986164;TELEFONICA;COUNTRY;https://live.euronext.com/en/product/equities/ES0178430E18-BGEM;ES;N/A;2024
+18986164;TELEFONICA;EMPLOYEES;https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Telefonica_AR23_ENG.pdf;103639;N/A;2023
+18986164;TELEFONICA;TURNOVER;https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Telefonica_Results_Presentation_FY23_vFinal.pdf;40652000000;EUR;2023
+18986164;TELEFONICA;ASSETS;https://www.telefonica.com/en/wp-content/uploads/sites/5/2023/02/Telefonica_AR_2022_ENG.pdf;124772000000;EUR;2022
+18986164;TELEFONICA;WEBSITE;https://www.telefonica.com/en/;www.telefonica.com;N/A;2024
+18986164;TELEFONICA;ACTIVITY;https://ai.google.dev/gemini-api;F42;N/A;2024
+18987927;ENI S P A;COUNTRY;https://live.euronext.com/en/product/equities/IT0003132476-MTAA;IT;N/A;2024
+18987927;ENI S P A;EMPLOYEES;https://www.eni.com/static/documents/eng/documents/publications/annual-report/2023/Eni_Annual_Report_2023.pdf;31647;N/A;2023
+18987927;ENI S P A;TURNOVER;https://www.eni.com/static/documents/eng/reports/annual-reports/2023/Eni_Annual_Report_2023.pdf;93651000000;EUR;2023
+18987927;ENI S P A;ASSETS;https://www.eni.com/assets/documents/eng/reports/2023/Annual-Report-2023.pdf;134744000000;EUR;2023
+18987927;ENI S P A;WEBSITE;https://www.eni.com/en-IT/home.html;www.eni.com;N/A;2024
+18987927;ENI S P A;ACTIVITY;https://ai.google.dev/gemini-api;B06;N/A;2024
+18988574;ARCELORMITTAL;COUNTRY;https://live.euronext.com/en/product/equities/LU1598757687-XAMS;LU;N/A;2024
+18988574;ARCELORMITTAL;EMPLOYEES;https://corporate.arcelormittal.com/wp-content/uploads/2024/02/ArcelorMittal-2023-Annual-Report.pdf;158000;N/A;2023
+18988574;ARCELORMITTAL;TURNOVER;https://corporate.arcelormittal.com/media/4q44w22h/arcelormittal-annual-report-2023.pdf;68275000000;USD;2023
+18988574;ARCELORMITTAL;ASSETS;https://corporate.arcelormittal.com/-/media/project/corporate/investors/financial-reports/2023/arcelormittal-annual-report-2023.pdf;74242000000;USD;2023
+18988574;ARCELORMITTAL;WEBSITE;https://corporate.arcelormittal.com/;corporate.arcelormittal.com;N/A;2024
+18988574;ARCELORMITTAL;ACTIVITY;https://ai.google.dev/gemini-api;C24;N/A;2024
+18990015;HEIDELBERGCEMENT;COUNTRY;https://financialmodelingprep.com/api/v3/profile/HLBZF;DE;N/A;2024
+18990015;HEIDELBERGCEMENT;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/HLBZF;50692;N/A;2024
+18990015;HEIDELBERGCEMENT;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/HLBZF;21156400000;EUR;2024
+18990015;HEIDELBERGCEMENT;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/HLBZF;37301700000;EUR;2024
+18990015;HEIDELBERGCEMENT;WEBSITE;https://financialmodelingprep.com/api/v3/profile/HLBZF;https://www.heidelbergcement.com;N/A;2024
+18990015;HEIDELBERGCEMENT;ACTIVITY;https://ai.google.dev/gemini-api;C23;N/A;2024
+18990928;INTERNATIONAL BUSINESS MACHINES CORP(IBM);COUNTRY;https://www.boerse-frankfurt.de/equity/ibm-corp?mic=XFRA;US;N/A;2024
+18990928;INTERNATIONAL BUSINESS MACHINES CORP(IBM);EMPLOYEES;https://www.ibm.com/annualreport/2023/assets/downloads/IBM_Annual_Report_2023.pdf;305000;N/A;2023
+18990928;INTERNATIONAL BUSINESS MACHINES CORP(IBM);TURNOVER;https://www.ibm.com/annualreport/2023/;60547000000;USD;2023
+18990928;INTERNATIONAL BUSINESS MACHINES CORP(IBM);ASSETS;https://www.sec.gov/Archives/edgar/data/51143/000155837024003863/ibm-20231231x10k.htm;161029000000;USD;2023
+18990928;INTERNATIONAL BUSINESS MACHINES CORP(IBM);WEBSITE;https://www.ibm.com/;www.ibm.com;N/A;2024
+18990928;INTERNATIONAL BUSINESS MACHINES CORP(IBM);ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+18997891;MEDTRONIC PLC;COUNTRY;https://financialmodelingprep.com/api/v3/profile/MDT;IE;N/A;2024
+18997891;MEDTRONIC PLC;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/MDT;95000;N/A;2024
+18997891;MEDTRONIC PLC;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/MDT;32364000000;USD;2024
+18997891;MEDTRONIC PLC;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/MDT;89981000000;USD;2024
+18997891;MEDTRONIC PLC;WEBSITE;https://financialmodelingprep.com/api/v3/profile/MDT;https://www.medtronic.com;N/A;2024
+18997891;MEDTRONIC PLC;ACTIVITY;https://ai.google.dev/gemini-api;C26;N/A;2024
+19004631;NESTLE S.A.;COUNTRY;https://divvydiary.com/en/nestle-stock-CH0038863350;CH;N/A;2024
+19004631;NESTLE S.A.;EMPLOYEES;https://www.nestle.com/sites/default/files/2024-02/2023-Full-Year-Results-EN.pdf;276000;N/A;2023
+19004631;NESTLE S.A.;TURNOVER;https://www.nestle.com/investors/annual-report;93000000000;CHF;2023
+19004631;NESTLE S.A.;ASSETS;https://www.nestle.com/sites/default/files/2024-02/2023-full-year-results-en.pdf#page=70;146541000000;CHF;2023
+19004631;NESTLE S.A.;WEBSITE;https://www.nestle.com/;www.nestle.com;N/A;2024
+19004631;NESTLE S.A.;ACTIVITY;https://ai.google.dev/gemini-api;C10;N/A;2024
+19011564;SODIM;COUNTRY;https://live.euronext.com/en/product/equities/PTSEM0AM0004-XLIS/company-information;PT;N/A;2024
+19011564;SODIM;EMPLOYEES;;;N/A;
+19011564;SODIM;TURNOVER;;;;
+19011564;SODIM;ASSETS;https://www.sodim.fr/wp-content/uploads/2023/07/SODIM_RA_2022_compressed.pdf;229000000;EUR;2022
+19011564;SODIM;WEBSITE;;/search?num=3;N/A;2024
+19011564;SODIM;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+19013259;META PLATFORMS INC.;COUNTRY;https://live.euronext.com/en/product/equities/US30303M1027-MTAH/market-information;US;N/A;2024
+19013259;META PLATFORMS INC.;EMPLOYEES;https://www.sec.gov/Archives/edgar/data/1326801/000132680124000010/meta-20231231.htm;71970;N/A;2023
+19013259;META PLATFORMS INC.;TURNOVER;https://s1.q4cdn.com/806091659/files/doc_financials/2023/ar/META-2023-Annual-Report.pdf;134900000000;USD;2023
+19013259;META PLATFORMS INC.;ASSETS;https://s1.q4cdn.com/399680738/files/doc_financials/2023/ar/META-2023-Annual-Report.pdf;225169000000;USD;2023
+19013259;META PLATFORMS INC.;WEBSITE;https://www.meta.com/about/?srsltid=AfmBOooaG-izHUal8KoBAIBFlQ6qjDs4NNq9YCfAG1woStinBPRguLNW;www.meta.com;N/A;2024
+19013259;META PLATFORMS INC.;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+19017221;NOVOMATIC GROUP;COUNTRY;https://cbonds.es/bonds/252213/;AT;N/A;2024
+19017221;NOVOMATIC GROUP;EMPLOYEES;https://www.novomatic.com/fileadmin/novomatic/content/investors/financial_reports/NOVOMATIC_Annual_Report_2023.pdf;23426;N/A;2023
+19017221;NOVOMATIC GROUP;TURNOVER;https://www.novomatic.com/fileadmin/novomatic.com/investors/financial_reports/NOVOMATIC_Annual_Report_2023_EN.pdf;2900000000;EUR;2023
+19017221;NOVOMATIC GROUP;ASSETS;https://www.novomatic.com/fileadmin/content/pdf/NOVOMATIC_Annual_Report_2022.pdf;4379000000;EUR;2022
+19017221;NOVOMATIC GROUP;WEBSITE;https://www.novomatic.com/en;www.novomatic.com;N/A;2024
+19017221;NOVOMATIC GROUP;ACTIVITY;https://ai.google.dev/gemini-api;C32;N/A;2024
+19019578;HUSQVARNA AB;COUNTRY;https://financialmodelingprep.com/api/v3/profile/HUSQF;SE;N/A;2024
+19019578;HUSQVARNA AB;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/HUSQF;12596;N/A;2024
+19019578;HUSQVARNA AB;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/HUSQF;48352000000;SEK;2024
+19019578;HUSQVARNA AB;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/HUSQF;56803000000;SEK;2024
+19019578;HUSQVARNA AB;WEBSITE;https://financialmodelingprep.com/api/v3/profile/HUSQF;https://www.husqvarnagroup.com;N/A;2024
+19019578;HUSQVARNA AB;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+19031780;WALT DISNEY COMPANY (THE);COUNTRY;https://divvydiary.com/en/walt-disney-stock-US2546871060;US;N/A;2024
+19031780;WALT DISNEY COMPANY (THE);EMPLOYEES;https://thewaltdisneycompany.com/app/uploads/2023/11/2023-Annual-Report.pdf;166000;N/A;2023
+19031780;WALT DISNEY COMPANY (THE);TURNOVER;https://www.sec.gov/Archives/edgar/data/1744488/000174448823000115/dis-20230930.htm;88889000000;USD;2023
+19031780;WALT DISNEY COMPANY (THE);ASSETS;https://www.sec.gov/Archives/edgar/data/1001039/000095017023053627/dis-20230930.htm;203613000000;USD;2023
+19031780;WALT DISNEY COMPANY (THE);WEBSITE;https://thewaltdisneycompany.com/;thewaltdisneycompany.com;N/A;2024
+19031780;WALT DISNEY COMPANY (THE);ACTIVITY;https://ai.google.dev/gemini-api;J59;N/A;2024
+19032544;RETHMANN;COUNTRY;https://ai.google.dev/gemini-api;DE;N/A;2024
+19032544;RETHMANN;EMPLOYEES;https://www.rethmann.de/en/rethmann-group/;90000;N/A;2022
+19032544;RETHMANN;TURNOVER;https://www.rethmann.de/en/the-rethmann-group/;20800000000;EUR;2022
+19032544;RETHMANN;ASSETS;https://ai.google.dev/gemini-api;4300000000;EUR;2022
+19032544;RETHMANN;WEBSITE;https://www.rethmann-gruppe.de/en/;www.rethmann-gruppe.de;N/A;2024
+19032544;RETHMANN;ACTIVITY;https://ai.google.dev/gemini-api;H49;N/A;2024
+19032847;MITSUI & CO LTD;COUNTRY;https://financialmodelingprep.com/api/v3/profile/MITSY;JP;N/A;2024
+19032847;MITSUI & CO LTD;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/MITSY;53602;N/A;2024
+19032847;MITSUI & CO LTD;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/MITSY;13324942000000;JPY;2024
+19032847;MITSUI & CO LTD;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/MITSY;16899502000000;JPY;2024
+19032847;MITSUI & CO LTD;WEBSITE;https://financialmodelingprep.com/api/v3/profile/MITSY;https://www.mitsui.com/jp/en/;N/A;2024
+19032847;MITSUI & CO LTD;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+19037620;JBS S.A.;COUNTRY;https://financialmodelingprep.com/api/v3/profile/JBSS3.SA;BR;N/A;2024
+19037620;JBS S.A.;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/JBSS3.SA;280000;N/A;2024
+19037620;JBS S.A.;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/JBSS3.SA;77182547000;USD;2024
+19037620;JBS S.A.;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/JBSS3.SA;40637283574.6;USD;2024
+19037620;JBS S.A.;WEBSITE;https://financialmodelingprep.com/api/v3/profile/JBSS3.SA;https://www.jbs.com.br;N/A;2024
+19037620;JBS S.A.;ACTIVITY;https://ai.google.dev/gemini-api;A10;N/A;2024
+19037648;H & M HENNES & MAURITZ;COUNTRY;https://www.boerse-frankfurt.de/equity/h-m-hennes-mauritz-ab?mic=XFRA;SE;N/A;2024
+19037648;H & M HENNES & MAURITZ;EMPLOYEES;https://hmgroup.com/content/dam/hmgroup/groupsite/documents/masterlanguage/Annual%20Reports/Annual%20Report%202023.pdf;101103;N/A;2023
+19037648;H & M HENNES & MAURITZ;TURNOVER;https://hmgroup.com/wp-content/uploads/2024/01/hm-group-year-end-report-2023.pdf;236005000000;SEK;2023
+19037648;H & M HENNES & MAURITZ;ASSETS;https://hmgroup.com/content/dam/hmgroup/groupsite/documents/masterlanguage/Annual%20Reports/Annual%20Report%202023.pdf;128408;SEK;2023
+19037648;H & M HENNES & MAURITZ;WEBSITE;https://www2.hm.com/es_es/index.html?srsltid=AfmBOopkPA8v36o0ZGecl0_eVtEhiAKJe66G5HTnIJ5qqrucrbmj9DO0;www2.hm.com;N/A;2024
+19037648;H & M HENNES & MAURITZ;ACTIVITY;https://ai.google.dev/gemini-api;G47;N/A;2024
+19041196;MERCEDES-BENZ GROUP;COUNTRY;https://financialmodelingprep.com/api/v3/profile/MBGYY;DE;N/A;2024
+19041196;MERCEDES-BENZ GROUP;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/MBGYY;163132;N/A;2024
+19041196;MERCEDES-BENZ GROUP;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/MBGYY;145594000000;EUR;2024
+19041196;MERCEDES-BENZ GROUP;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/MBGYY;265010000000;EUR;2024
+19041196;MERCEDES-BENZ GROUP;WEBSITE;https://financialmodelingprep.com/api/v3/profile/MBGYY;https://group.mercedes-benz.com;N/A;2024
+19041196;MERCEDES-BENZ GROUP;ACTIVITY;https://ai.google.dev/gemini-api;G45;N/A;2024
+19041914;PEPSICO INC;COUNTRY;https://divvydiary.com/en/pepsico-stock-US7134481081;US;N/A;2024
+19041914;PEPSICO INC;EMPLOYEES;https://www.pepsico.com/investors/financial-reporting;318000;N/A;2023
+19041914;PEPSICO INC;TURNOVER;https://www.pepsico.com/investors/financial-information/annual-reports;91472000000;USD;2023
+19041914;PEPSICO INC;ASSETS;https://www.sec.gov/Archives/edgar/data/77476/000007747624000015/pep-20231230.htm;92695000000;USD;2023
+19041914;PEPSICO INC;WEBSITE;https://www.pepsico.com/;www.pepsico.com;N/A;2024
+19041914;PEPSICO INC;ACTIVITY;https://ai.google.dev/gemini-api;C10;N/A;2024
+19042061;COMPASS GROUP PLC;COUNTRY;https://divvydiary.com/en/compass-group-stock-GB00BD6K4575;GB;N/A;2024
+19042061;COMPASS GROUP PLC;EMPLOYEES;https://www.compass-group.com/investors/results-centre;508000;N/A;2023
+19042061;COMPASS GROUP PLC;TURNOVER;https://www.compass-group.com/-/media/compass-corporate/documents/investors/2023/compass-group-plc-annual-report-2023.pdf;31498000000;GBP;2023
+19042061;COMPASS GROUP PLC;ASSETS;https://www.compass-group.com/-/media/compass-group/files/reports/2023/compass-group-plc-annual-report-2023.pdf;23994;GBP;2023
+19042061;COMPASS GROUP PLC;WEBSITE;https://www.compass-group.com/en/index.html;www.compass-group.com;N/A;2024
+19042061;COMPASS GROUP PLC;ACTIVITY;https://ai.google.dev/gemini-api;I56;N/A;2024
+19044103;ATOS SE;COUNTRY;https://live.euronext.com/en/product/equities/fr001400x2s4-xpar;FR;N/A;2024
+19044103;ATOS SE;EMPLOYEES;https://atos.net/content/uploads/2024/02/Atos-Universal-Registration-Document-2023.pdf;91449;N/A;2023
+19044103;ATOS SE;TURNOVER;https://atos.net/wp-content/uploads/2024/02/Atos_Universal-Registration-Document-2023.pdf#page=21;10692000000;EUR;2023
+19044103;ATOS SE;ASSETS;https://atos.net/wp-content/uploads/2024/02/Atos-Universal-Registration-Document-2023.pdf#page=204;10894;EUR;2023
+19044103;ATOS SE;WEBSITE;https://atos.net/en;atos.net;N/A;2024
+19044103;ATOS SE;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+19044732;VOLKSWAGEN;COUNTRY;https://financialmodelingprep.com/api/v3/profile/VWAPY;DE;N/A;2024
+19044732;VOLKSWAGEN;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/VWAPY;639608;N/A;2024
+19044732;VOLKSWAGEN;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/VWAPY;324655000000;EUR;2024
+19044732;VOLKSWAGEN;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/VWAPY;632905000000;EUR;2024
+19044732;VOLKSWAGEN;WEBSITE;https://financialmodelingprep.com/api/v3/profile/VWAPY;https://www.volkswagenag.com;N/A;2024
+19044732;VOLKSWAGEN;ACTIVITY;https://ai.google.dev/gemini-api;G45;N/A;2024
+19045186;TOYOTA MOTOR CORPORATION;COUNTRY;https://www.boerse-frankfurt.de/equity/toyota-motor-corp;JP;N/A;2024
+19045186;TOYOTA MOTOR CORPORATION;EMPLOYEES;https://global.toyota/en/company/profile/;375235;N/A;2023
+19045186;TOYOTA MOTOR CORPORATION;TURNOVER;https://global.toyota/pages/global_toyota/ir/financial-results/2023_3q_summary_en.pdf;37180000000000;JPY;2023
+19045186;TOYOTA MOTOR CORPORATION;ASSETS;https://global.toyota/pages/global_toyota/ir/financial-results/2023_3q_summary_en.pdf;67030900000000;JPY;2023
+19045186;TOYOTA MOTOR CORPORATION;WEBSITE;https://global.toyota/en/index.html;global.toyota;N/A;2024
+19045186;TOYOTA MOTOR CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;C29;N/A;2024
+19050011;DEUTSCHE TELEKOM;COUNTRY;https://www.boerse-frankfurt.de/equity/deutsche-telekom-ag?mic=XFRA;DE;N/A;2024
+19050011;DEUTSCHE TELEKOM;EMPLOYEES;https://www.telekom.com/en/investor-relations/reports-and-presentations/annual-report-2023;206763;N/A;2023
+19050011;DEUTSCHE TELEKOM;TURNOVER;https://www.telekom.com/en/investor-relations/reports-and-presentations/annual-report-2023;114400000000;EUR;2023
+19050011;DEUTSCHE TELEKOM;ASSETS;https://www.telekom.com/en/investor-relations/reports-and-presentations/annual-report-2023;165389000000;EUR;2023
+19050011;DEUTSCHE TELEKOM;WEBSITE;https://www.telekom.com/en;www.telekom.com;N/A;2024
+19050011;DEUTSCHE TELEKOM;ACTIVITY;https://ai.google.dev/gemini-api;J61;N/A;2024
+19050406;ITOCHU CORPORATION;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ITOCY;JP;N/A;2024
+19050406;ITOCHU CORPORATION;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ITOCY;113733;N/A;2024
+19050406;ITOCHU CORPORATION;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ITOCY;14029910000000;JPY;2024
+19050406;ITOCHU CORPORATION;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ITOCY;14489701000000;JPY;2024
+19050406;ITOCHU CORPORATION;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ITOCY;https://www.itochu.co.jp;N/A;2024
+19050406;ITOCHU CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+19052995;ALSTOM;COUNTRY;https://financialmodelingprep.com/api/v3/profile/AOMFF;FR;N/A;2024
+19052995;ALSTOM;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/AOMFF;78684;N/A;2024
+19052995;ALSTOM;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/AOMFF;17619000000;EUR;2024
+19052995;ALSTOM;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/AOMFF;33253000000;EUR;2024
+19052995;ALSTOM;WEBSITE;https://financialmodelingprep.com/api/v3/profile/AOMFF;https://www.alstom.com;N/A;2024
+19052995;ALSTOM;ACTIVITY;https://ai.google.dev/gemini-api;C30;N/A;2024
+19053695;DANONE;COUNTRY;https://financialmodelingprep.com/api/v3/profile/GPDNF;FR;N/A;2024
+19053695;DANONE;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/GPDNF;89528;N/A;2024
+19053695;DANONE;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/GPDNF;27376000000;EUR;2024
+19053695;DANONE;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/GPDNF;45292000000;EUR;2024
+19053695;DANONE;WEBSITE;https://financialmodelingprep.com/api/v3/profile/GPDNF;https://www.danone.com;N/A;2024
+19053695;DANONE;ACTIVITY;https://ai.google.dev/gemini-api;C10;N/A;2024
+19057037;THERMO FISHER SCIENTIFIC INC.;COUNTRY;https://www.boerse-frankfurt.de/equity/thermo-fisher-scientific-inc;US;N/A;2024
+19057037;THERMO FISHER SCIENTIFIC INC.;EMPLOYEES;https://s1.q4cdn.com/155658052/files/doc_financials/2023/ar/Thermo-Fisher-Scientific-2023-Annual-Report.pdf;104000;N/A;2023
+19057037;THERMO FISHER SCIENTIFIC INC.;TURNOVER;https://ir.thermofisher.com/financials/annual-reports/default.aspx;44915000000;USD;2023
+19057037;THERMO FISHER SCIENTIFIC INC.;ASSETS;https://s1.q4cdn.com/155654242/files/doc_financials/2023/ar/TMO-2023-Annual-Report.pdf;54479000000;USD;2023
+19057037;THERMO FISHER SCIENTIFIC INC.;WEBSITE;https://www.thermofisher.com/es/en/home.html;www.thermofisher.com;N/A;2024
+19057037;THERMO FISHER SCIENTIFIC INC.;ACTIVITY;https://ai.google.dev/gemini-api;M72;N/A;2024
+19060705;NIPPON TELEGRAPH AND TELEPHONE CORPORATION;COUNTRY;https://financialmodelingprep.com/api/v3/profile/NTTYY;JP;N/A;2024
+19060705;NIPPON TELEGRAPH AND TELEPHONE CORPORATION;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/NTTYY;338467;N/A;2024
+19060705;NIPPON TELEGRAPH AND TELEPHONE CORPORATION;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/NTTYY;13374569000000;JPY;2024
+19060705;NIPPON TELEGRAPH AND TELEPHONE CORPORATION;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/NTTYY;29604223000000;JPY;2024
+19060705;NIPPON TELEGRAPH AND TELEPHONE CORPORATION;WEBSITE;https://financialmodelingprep.com/api/v3/profile/NTTYY;https://group.ntt;N/A;2024
+19060705;NIPPON TELEGRAPH AND TELEPHONE CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;J61;N/A;2024
+19061929;ZHEJIANG GEELY HOLDING GROUP CO LTD;COUNTRY;https://ai.google.dev/gemini-api;CN;N/A;2024
+19061929;ZHEJIANG GEELY HOLDING GROUP CO LTD;EMPLOYEES;https://www.geely.com/media-center/news/geely-holding-group-announces-2023-results-and-sustainable-development-report/;120000;N/A;2023
+19061929;ZHEJIANG GEELY HOLDING GROUP CO LTD;TURNOVER;;;;
+19061929;ZHEJIANG GEELY HOLDING GROUP CO LTD;ASSETS;https://www.geely.com/media/press-releases/geely-auto-announces-2022-annual-results;577792000000;CNY;2022
+19061929;ZHEJIANG GEELY HOLDING GROUP CO LTD;WEBSITE;https://zgh.com/?lang=en;zgh.com;N/A;2024
+19061929;ZHEJIANG GEELY HOLDING GROUP CO LTD;ACTIVITY;https://ai.google.dev/gemini-api;C29;N/A;2024
+19063169;DEUTSCHE POST;COUNTRY;https://www.boerse-frankfurt.de/equity/deutsche-post-ag;DE;N/A;2024
+19063169;DEUTSCHE POST;EMPLOYEES;https://www.dpdhl.com/content/dam/dpdhl/investors/reports/annual-reports/2023/DPDHL_AR2023_EN.pdf;593452;N/A;2023
+19063169;DEUTSCHE POST;TURNOVER;https://www.dpdhl.com/content/dam/dpdhl/investors/reports/annual-report/2023/DPDHL_AR2023_EN.pdf;94026000000;EUR;2023
+19063169;DEUTSCHE POST;ASSETS;https://www.deutschepost.com/content/dam/dphl/investors/documents/annual-reports/2023/deutsche-post-dhl-group-annual-report-2023.pdf;74484000000;EUR;2023
+19063169;DEUTSCHE POST;WEBSITE;https://www.deutschepost.de/en/home.html;www.deutschepost.de;N/A;2024
+19063169;DEUTSCHE POST;ACTIVITY;https://ai.google.dev/gemini-api;H49;N/A;2024
+19063238;ACCENTURE PLC;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ACN;IE;N/A;2024
+19063238;ACCENTURE PLC;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ACN;801000;N/A;2024
+19063238;ACCENTURE PLC;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ACN;64896464000;USD;2024
+19063238;ACCENTURE PLC;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ACN;55932363000;USD;2024
+19063238;ACCENTURE PLC;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ACN;https://www.accenture.com;N/A;2024
+19063238;ACCENTURE PLC;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+19071003;SCHAEFFLER;COUNTRY;https://live.euronext.com/en/product/equities/DE000SHA0159-BGEM/market-information;DE;N/A;2024
+19071003;SCHAEFFLER;EMPLOYEES;https://www.schaeffler.com/content.schaeffler.de/en/investor_relations/publications/publications.jsp;83000;N/A;2023
+19071003;SCHAEFFLER;TURNOVER;https://www.schaeffler.com/content.schaeffler.de/en/investor_relations/financial_reports/financial_reports.jsp;15800000000;EUR;2022
+19071003;SCHAEFFLER;ASSETS;https://www.schaeffler.com/remotemedien/media/_shared/library/downloads/schaeffler-annual-report-2023-en.pdf;14038;EUR;2023
+19071003;SCHAEFFLER;WEBSITE;https://www.schaeffler.com/en/;www.schaeffler.com;N/A;2024
+19071003;SCHAEFFLER;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+19078026;SINOCHEM;COUNTRY;https://ai.google.dev/gemini-api;CN;N/A;2024
+19078026;SINOCHEM;EMPLOYEES;https://www.sinochem.com/sinochem_en/col/col1613/index.html;55000;N/A;2022
+19078026;SINOCHEM;TURNOVER;;;;
+19078026;SINOCHEM;ASSETS;https://www.sinochem.com/static/upload/file/202305/669c98e492314a579f2c16c31f41909c.pdf;178890000000;CNY;2022
+19078026;SINOCHEM;WEBSITE;https://www.sinochem.com/sinochemen/index.html;www.sinochem.com;N/A;2024
+19078026;SINOCHEM;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+19078254;BOUYGUES;COUNTRY;https://live.euronext.com/en/product/equities/FR0000120503-XPAR/market-information;FR;N/A;2024
+19078254;BOUYGUES;EMPLOYEES;https://www.bouygues.com/wp-content/uploads/2024/02/bouygues_cp_ra2023_va.pdf;129367;N/A;2023
+19078254;BOUYGUES;TURNOVER;https://www.bouygues.com/wp-content/uploads/2024/02/bouygues_cp_ra2023_va.pdf;56466000000;EUR;2023
+19078254;BOUYGUES;ASSETS;https://www.bouygues.com/wp-content/uploads/2024/02/bouygues_financial-statements_2023.pdf;103814000000;EUR;2023
+19078254;BOUYGUES;WEBSITE;https://www.bouygues.com/en/;www.bouygues.com;N/A;2024
+19078254;BOUYGUES;ACTIVITY;https://ai.google.dev/gemini-api;F41;N/A;2024
+19081380;EDP;COUNTRY;https://financialmodelingprep.com/api/v3/profile/7794.T;JP;N/A;2025
+19081380;EDP;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/7794.T;62;N/A;2025
+19081380;EDP;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/7794.T;902729000;JPY;2025
+19081380;EDP;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/7794.T;4368542000;JPY;2025
+19081380;EDP;WEBSITE;https://financialmodelingprep.com/api/v3/profile/7794.T;https://www.d-edp.jp;N/A;2025
+19081380;EDP;ACTIVITY;https://ai.google.dev/gemini-api;D35;N/A;2024
+19089102;NOVARTIS AG;COUNTRY;https://financialmodelingprep.com/api/v3/profile/NVSEF;CH;N/A;2024
+19089102;NOVARTIS AG;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/NVSEF;75883;N/A;2024
+19089102;NOVARTIS AG;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/NVSEF;51722000000;USD;2024
+19089102;NOVARTIS AG;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/NVSEF;102246000000;USD;2024
+19089102;NOVARTIS AG;WEBSITE;https://financialmodelingprep.com/api/v3/profile/NVSEF;https://www.novartis.com;N/A;2024
+19089102;NOVARTIS AG;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+19098069;EXXON MOBIL CORP;COUNTRY;https://www.boerse-frankfurt.de/equity/exxon-mobil-corp?mic=XFRA;US;N/A;2024
+19098069;EXXON MOBIL CORP;EMPLOYEES;https://www.exxonmobil.com/news/newsroom/news-releases/2024/0202_exxonmobil-announces-fourth-quarter-full-year-2023-results;62000;N/A;2023
+19098069;EXXON MOBIL CORP;TURNOVER;https://ir.exxonmobil.com/financials/sec-filings/default.aspx;344556000000;USD;2023
+19098069;EXXON MOBIL CORP;ASSETS;https://ir.corporate.exxonmobil.com/financial-information/annual-reports;395344000000;USD;2023
+19098069;EXXON MOBIL CORP;WEBSITE;https://corporate.exxonmobil.com/;corporate.exxonmobil.com;N/A;2024
+19098069;EXXON MOBIL CORP;ACTIVITY;https://ai.google.dev/gemini-api;C19;N/A;2024
+19098782;HENKEL KGAA;COUNTRY;https://www.boerse-frankfurt.de/equity/henkel-ag-co-kgaa-vz?mic=XFRA;DE;N/A;2024
+19098782;HENKEL KGAA;EMPLOYEES;https://www.henkel.com/company/at-a-glance;52000;N/A;2023
+19098782;HENKEL KGAA;TURNOVER;https://www.henkel.com/investors/financial-publications;21514000000;EUR;2022
+19098782;HENKEL KGAA;ASSETS;https://www.henkel.com/blob/2561334/f15011932a592250771692171374899c/download-center-data.pdf;64278;EUR;2023
+19098782;HENKEL KGAA;WEBSITE;https://www.henkel.com/;www.henkel.com;N/A;2024
+19098782;HENKEL KGAA;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+19103593;D IETEREN GROUP;COUNTRY;https://live.euronext.com/en/product/equities/BE0974259880-XBRU;BE;N/A;2024
+19103593;D IETEREN GROUP;EMPLOYEES;https://www.dieterengroup.com/media/kun1434/dieteren-group-annual-report-2023.pdf;8133;N/A;2023
+19103593;D IETEREN GROUP;TURNOVER;https://www.dieterengroup.com/en/newsroom/d-ieteren-delivers-record-results-in-2023/;11814000000;EUR;2023
+19103593;D IETEREN GROUP;ASSETS;https://www.dieterengroup.com/en/newsroom/d-ieteren-group-solid-results-in-2023-and-strategic-progress;7687000000;EUR;2023
+19103593;D IETEREN GROUP;WEBSITE;https://www.dieterengroup.com/;www.dieterengroup.com;N/A;2024
+19103593;D IETEREN GROUP;ACTIVITY;https://ai.google.dev/gemini-api;G45;N/A;2024
+19106201;HEINEKEN;COUNTRY;https://live.euronext.com/en/product/equities/NL0000009165-XAMS;NL;N/A;2024
+19106201;HEINEKEN;EMPLOYEES;https://www.theheinekencompany.com/investors/results-reports;92293;N/A;2023
+19106201;HEINEKEN;TURNOVER;https://www.theheinekencompany.com/investors/results-reports;36375000000;EUR;2023
+19106201;HEINEKEN;ASSETS;https://www.theheinekencompany.com/investors/results-reports;49841;EUR;2023
+19106201;HEINEKEN;WEBSITE;https://www.heineken.com/global/en/home;www.heineken.com;N/A;2024
+19106201;HEINEKEN;ACTIVITY;https://ai.google.dev/gemini-api;C11;N/A;2024
+19112336;INDITEX;COUNTRY;https://live.euronext.com/en/product/equities/ES0148396007-BGEM;ES;N/A;2024
+19112336;INDITEX;EMPLOYEES;https://www.inditex.com/en/annual-report;161281;N/A;2023
+19112336;INDITEX;TURNOVER;https://www.inditex.com/documents/10279/6415258/Informe+Anual+Consolidado+2023.pdf/4f1f3593-4973-a997-7666-10af15a1d889;35947000000;EUR;2023
+19112336;INDITEX;ASSETS;https://www.inditex.com/en/investors/economic-information/annual-reports;34994000000;EUR;2024
+19112336;INDITEX;WEBSITE;https://www.inditex.com/;www.inditex.com;N/A;2024
+19112336;INDITEX;ACTIVITY;https://ai.google.dev/gemini-api;G47;N/A;2024
+19118622;IBERDROLA;COUNTRY;https://live.euronext.com/en/product/equities/ES0144580Y14-MTAH;ES;N/A;2024
+19118622;IBERDROLA;EMPLOYEES;https://www.iberdrola.com/shareholders-investors/economic-financial-information/results;42474;N/A;2023
+19118622;IBERDROLA;TURNOVER;https://www.iberdrola.com/shareholders/economic-financial-information/results;43389000000;EUR;2023
+19118622;IBERDROLA;ASSETS;https://www.iberdrola.com/shareholders-investors/economic-financial-information/results;161781000000;EUR;2023
+19118622;IBERDROLA;WEBSITE;https://www.iberdrola.com/home;www.iberdrola.com;N/A;2024
+19118622;IBERDROLA;ACTIVITY;https://ai.google.dev/gemini-api;D35;N/A;2024
+19143810;JOHN SWIRE & SONS LIMITED;COUNTRY;https://ai.google.dev/gemini-api;GB;N/A;2024
+19143810;JOHN SWIRE & SONS LIMITED;EMPLOYEES;https://www.swire.com/en/about/at-a-glance.php;80000;N/A;2023
+19143810;JOHN SWIRE & SONS LIMITED;TURNOVER;https://www.swire.com/ir/ar/2022/en/downloads/SwirePacific_AR2022_FullReport.pdf;8400000000;GBP;2022
+19143810;JOHN SWIRE & SONS LIMITED;ASSETS;https://www.swire.com/ir/ar/2022/downloads/Swire_AR2022_Full.pdf;21715000000;GBP;2022
+19143810;JOHN SWIRE & SONS LIMITED;WEBSITE;https://www.swire.com/;www.swire.com;N/A;2024
+19143810;JOHN SWIRE & SONS LIMITED;ACTIVITY;https://ai.google.dev/gemini-api;K64;N/A;2024
+19145378;ESSITY;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ETTYF;SE;N/A;2024
+19145378;ESSITY;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ETTYF;36000;N/A;2024
+19145378;ESSITY;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ETTYF;145546000000;SEK;2024
+19145378;ESSITY;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ETTYF;185284000000;SEK;2024
+19145378;ESSITY;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ETTYF;https://www.essity.com;N/A;2024
+19145378;ESSITY;ACTIVITY;https://ai.google.dev/gemini-api;C17;N/A;2024
+19149741;LEONARDO SOCIETA PER AZIONI;COUNTRY;https://live.euronext.com/en/product/equities/IT0003856405-MTAA;IT;N/A;2024
+19149741;LEONARDO SOCIETA PER AZIONI;EMPLOYEES;https://www.leonardo.com/documents/20142/17978007/Bilancio+Consolidato+2023_ENG.pdf;51099;N/A;2023
+19149741;LEONARDO SOCIETA PER AZIONI;TURNOVER;https://www.leonardo.com/documents/20142/16800114/Leonardo_Annual_Report_2023.pdf;16294000000;EUR;2023
+19149741;LEONARDO SOCIETA PER AZIONI;ASSETS;https://www.leonardo.com/documents/20142/16801103/Leonardo_Annual_Report_2023.pdf;41511000000;EUR;2023
+19149741;LEONARDO SOCIETA PER AZIONI;WEBSITE;https://www.leonardo.com/it/home;www.leonardo.com;N/A;2024
+19149741;LEONARDO SOCIETA PER AZIONI;ACTIVITY;https://ai.google.dev/gemini-api;C30;N/A;2024
+19157606;BOSCH;COUNTRY;https://tools.morningstar.co.uk/uk/stockreport/default.aspx?SecurityToken=0P0000AVQM%5D3%5D0%5DE0WWE%24%24ALL;IN;N/A;2024
+19157606;BOSCH;EMPLOYEES;https://www.bosch.com/company/bosch-at-a-glance/;429416;N/A;2023
+19157606;BOSCH;TURNOVER;https://www.bosch.com/newsroom/annual-press-conference/ ;91600000000;EUR;2023
+19157606;BOSCH;ASSETS;https://www.bosch.com/resource-pool/media/company/annual-report/pdf/bosch-annual-report-2023.pdf;98497000000;EUR;2023
+19157606;BOSCH;WEBSITE;https://www.bosch.com/;www.bosch.com;N/A;2024
+19157606;BOSCH;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+19159067;DELL TECHNOLOGIES INC.;COUNTRY;https://financialmodelingprep.com/api/v3/profile/DELL;US;N/A;2025
+19159067;DELL TECHNOLOGIES INC.;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/DELL;108000;N/A;2025
+19159067;DELL TECHNOLOGIES INC.;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/DELL;95567000000;USD;2025
+19159067;DELL TECHNOLOGIES INC.;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/DELL;79746000000;USD;2025
+19159067;DELL TECHNOLOGIES INC.;WEBSITE;https://financialmodelingprep.com/api/v3/profile/DELL;https://www.delltechnologies.com;N/A;2025
+19159067;DELL TECHNOLOGIES INC.;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+19159307;INTERTEK GROUP PLC;COUNTRY;https://divvydiary.com/en/intertek-group-stock-GB0031638363;GB;N/A;2024
+19159307;INTERTEK GROUP PLC;EMPLOYEES;https://www.intertek.com/investors/annual-report/;44000;N/A;2023
+19159307;INTERTEK GROUP PLC;TURNOVER;https://www.intertek.com/-/media/Intertek/Investor/Annual-Report/2023/Intertek-Annual-Report-2023.pdf;3271400000;GBP;2023
+19159307;INTERTEK GROUP PLC;ASSETS;https://www.intertek.com/-/media/Intertek/Investor/Annual-Report/2023/Intertek_Annual_Report_2023.pdf;3403100000;GBP;2023
+19159307;INTERTEK GROUP PLC;WEBSITE;https://www.intertek.com/;www.intertek.com;N/A;2024
+19159307;INTERTEK GROUP PLC;ACTIVITY;https://ai.google.dev/gemini-api;M71;N/A;2024
+19174661;ESSILORLUXOTTICA;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ESLOY;FR;N/A;2024
+19174661;ESSILORLUXOTTICA;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ESLOY;153498;N/A;2024
+19174661;ESSILORLUXOTTICA;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ESLOY;26508000000;EUR;2024
+19174661;ESSILORLUXOTTICA;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ESLOY;64264000000;EUR;2024
+19174661;ESSILORLUXOTTICA;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ESLOY;https://www.essilorluxottica.com;N/A;2024
+19174661;ESSILORLUXOTTICA;ACTIVITY;https://ai.google.dev/gemini-api;C26;N/A;2024
+19187838;ALPHABET INC.;COUNTRY;https://financialmodelingprep.com/api/v3/profile/GOOG.NE;US;N/A;2024
+19187838;ALPHABET INC.;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/GOOG.NE;181269;N/A;2024
+19187838;ALPHABET INC.;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/GOOG.NE;350018000000;USD;2024
+19187838;ALPHABET INC.;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/GOOG.NE;450256000000;USD;2024
+19187838;ALPHABET INC.;WEBSITE;https://financialmodelingprep.com/api/v3/profile/GOOG.NE;https://www.abc.xyz;N/A;2024
+19187838;ALPHABET INC.;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+19191179;MARUBENI CORPORATION;COUNTRY;https://financialmodelingprep.com/api/v3/profile/MARUY;JP;N/A;2024
+19191179;MARUBENI CORPORATION;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/MARUY;45995;N/A;2024
+19191179;MARUBENI CORPORATION;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/MARUY;7250515000000;JPY;2024
+19191179;MARUBENI CORPORATION;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/MARUY;8923597000000;JPY;2024
+19191179;MARUBENI CORPORATION;WEBSITE;https://financialmodelingprep.com/api/v3/profile/MARUY;https://www.marubeni.com;N/A;2024
+19191179;MARUBENI CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+19191444;RELX PLC;COUNTRY;https://financialmodelingprep.com/api/v3/profile/RLXXF;GB;N/A;2024
+19191444;RELX PLC;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/RLXXF;34580;N/A;2024
+19191444;RELX PLC;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/RLXXF;9434000000;GBP;2024
+19191444;RELX PLC;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/RLXXF;15133000000;GBP;2024
+19191444;RELX PLC;WEBSITE;https://financialmodelingprep.com/api/v3/profile/RLXXF;https://www.relx.com;N/A;2024
+19191444;RELX PLC;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+19191498;BOLLORE PARTICIPATIONS SE;COUNTRY;https://live.euronext.com/en/product/equities/FR0000039299-XPAR;FR;N/A;2024
+19191498;BOLLORE PARTICIPATIONS SE;EMPLOYEES;https://www.bollore.com/en/finance/publications/;41000;N/A;2023
+19191498;BOLLORE PARTICIPATIONS SE;TURNOVER;https://www.bollore.com/wp-content/uploads/2023/03/Bollore_DRU_2022_VA.pdf;25530000000;EUR;2022
+19191498;BOLLORE PARTICIPATIONS SE;ASSETS;https://www.bollore.com/wp-content/uploads/2023/03/Bollore_DRU_2022_VA.pdf;28610000000;EUR;2022
+19191498;BOLLORE PARTICIPATIONS SE;WEBSITE;https://www.bollore.com/en/;www.bollore.com;N/A;2024
+19191498;BOLLORE PARTICIPATIONS SE;ACTIVITY;https://ai.google.dev/gemini-api;K64;N/A;2024
+19192598;JOHNSON & JOHNSON;COUNTRY;https://www.boerse-frankfurt.de/equity/johnson-johnson?mic=XFRA;US;N/A;2024
+19192598;JOHNSON & JOHNSON;EMPLOYEES;https://www.jnj.com/annual-report/2023;131900;N/A;2023
+19192598;JOHNSON & JOHNSON;TURNOVER;https://www.johnsonandjohnson.com/annual-report/2023;85159000000;USD;2023
+19192598;JOHNSON & JOHNSON;ASSETS;https://www.johnsonandjohnson.com/annual-report/2023;182499000000;USD;2023
+19192598;JOHNSON & JOHNSON;WEBSITE;https://www.jnj.com/;www.jnj.com;N/A;2024
+19192598;JOHNSON & JOHNSON;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+19196807;CARREFOUR;COUNTRY;https://financialmodelingprep.com/api/v3/profile/CRRFY;FR;N/A;2024
+19196807;CARREFOUR;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/CRRFY;324750;N/A;2024
+19196807;CARREFOUR;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/CRRFY;87270000000;EUR;2024
+19196807;CARREFOUR;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/CRRFY;57363000000;EUR;2024
+19196807;CARREFOUR;WEBSITE;https://financialmodelingprep.com/api/v3/profile/CRRFY;https://www.carrefour.com;N/A;2024
+19196807;CARREFOUR;ACTIVITY;https://ai.google.dev/gemini-api;G47;N/A;2024
+19201457;ALFA LAVAL AB;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ALFVY;SE;N/A;2024
+19201457;ALFA LAVAL AB;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ALFVY;22496;N/A;2024
+19201457;ALFA LAVAL AB;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ALFVY;66954000000;SEK;2024
+19201457;ALFA LAVAL AB;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ALFVY;88803000000;SEK;2024
+19201457;ALFA LAVAL AB;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ALFVY;https://www.alfalaval.com;N/A;2024
+19201457;ALFA LAVAL AB;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+19206259;SGS;COUNTRY;https://financialmodelingprep.com/api/v3/profile/SGSOY;CH;N/A;2024
+19206259;SGS;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/SGSOY;95244;N/A;2024
+19206259;SGS;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/SGSOY;6794000000;CHF;2024
+19206259;SGS;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/SGSOY;6749000000;CHF;2024
+19206259;SGS;WEBSITE;https://financialmodelingprep.com/api/v3/profile/SGSOY;https://www.sgs.com;N/A;2024
+19206259;SGS;ACTIVITY;https://ai.google.dev/gemini-api;M71;N/A;2024
+19216371;COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN;COUNTRY;https://live.euronext.com/en/product/equities/FR001400AJ45-XPAR/company-information;FR;N/A;2024
+19216371;COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN;EMPLOYEES;https://www.michelin.com/wp-content/uploads/2024/02/michelin_universal-registration-document-2023.pdf;132200;N/A;2023
+19216371;COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN;TURNOVER;https://www.michelin.com/wp-content/uploads/2024/02/michelin_press_release_results_2023.pdf;28344000000;EUR;2023
+19216371;COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN;ASSETS;https://www.michelin.com/wp-content/uploads/2024/02/michelin_universal_registration_document_2023.pdf;29716;EUR;2023
+19216371;COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN;WEBSITE;https://www.michelin.com/en/;www.michelin.com;N/A;2024
+19216371;COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN;ACTIVITY;https://ai.google.dev/gemini-api;C22;N/A;2024
+19217026;HITACHI LTD;COUNTRY;https://tools.morningstar.co.uk/uk/stockreport/default.aspx?SecurityToken=0P0000AEUO%5D3%5D0%5DE0WWE%24%24ALL;JP;N/A;2024
+19217026;HITACHI LTD;EMPLOYEES;https://www.hitachi.com/IR/annual/ar2023/pdf/all.pdf;322525;N/A;2023
+19217026;HITACHI LTD;TURNOVER;https://www.hitachi.com/IR-e/library/annual/ar2024e.pdf#page=65;8564301;JPY;2024
+19217026;HITACHI LTD;ASSETS;https://www.hitachi.com/IR/library/annual/2023/pdf/ar2023e.pdf;10498447000000;JPY;2023
+19217026;HITACHI LTD;WEBSITE;https://www.hitachi.com/en/;www.hitachi.com;N/A;2024
+19217026;HITACHI LTD;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+19226059;HOLCIM AG;COUNTRY;https://live.euronext.com/en/product/equities/ch0012214059-xpar;CH;N/A;2024
+19226059;HOLCIM AG;EMPLOYEES;https://www.holcim.com/sites/holcim/files/media/articles/2024-02/holcim-full-year-results-2023.pdf;63445;N/A;2023
+19226059;HOLCIM AG;TURNOVER;https://www.holcim.com/sites/holcim/files/media/articles/2024-02/holcim-full-year-results-2023.pdf;27084000000;CHF;2023
+19226059;HOLCIM AG;ASSETS;https://www.holcim.com/sites/holcim/files/media/articles/2024-02/holcim-annual-report-2023.pdf;47499;CHF;2023
+19226059;HOLCIM AG;WEBSITE;https://www.holcim.com/;www.holcim.com;N/A;2024
+19226059;HOLCIM AG;ACTIVITY;https://ai.google.dev/gemini-api;C23;N/A;2024
+19231130;SCHNEIDER ELECTRIC SE;COUNTRY;https://live.euronext.com/en/product/equities/FR0000121972-XPAR;FR;N/A;2024
+19231130;SCHNEIDER ELECTRIC SE;EMPLOYEES;https://www.se.com/ww/en/about-us/company-profile/schneider-electric-facts.jsp;168043;N/A;2023
+19231130;SCHNEIDER ELECTRIC SE;TURNOVER;https://www.se.com/ww/en/about-us/company-profile/key-figures.jsp;35900000000;EUR;2023
+19231130;SCHNEIDER ELECTRIC SE;ASSETS;https://download.schneider-electric.com/files?p_enDocType=Annual+Report&p_File_Name=Schneider_Electric_2023_Annual_Report.pdf&p_Doc_Ref=DOCA0279EN;54421000000;EUR;2023
+19231130;SCHNEIDER ELECTRIC SE;WEBSITE;https://www.se.com/ww/en/;www.se.com;N/A;2024
+19231130;SCHNEIDER ELECTRIC SE;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+19233882;EUROFINS SCIENTIFIC;COUNTRY;https://live.euronext.com/en/product/equities/FR0014000MR3-XPAR;FR;N/A;2024
+19233882;EUROFINS SCIENTIFIC;EMPLOYEES;https://www.eurofins.com/media-centre/press-releases/2024-03-01/;62000;N/A;2023
+19233882;EUROFINS SCIENTIFIC;TURNOVER;https://www.eurofins.com/investors/financial-reports/;6743000000;EUR;2023
+19233882;EUROFINS SCIENTIFIC;ASSETS;https://www.eurofins.com/media/17414115/eurofins-scientific-se-2023-annual-report.pdf;9978000000;EUR;2023
+19233882;EUROFINS SCIENTIFIC;WEBSITE;https://www.eurofins.com/;www.eurofins.com;N/A;2024
+19233882;EUROFINS SCIENTIFIC;ACTIVITY;https://ai.google.dev/gemini-api;M72;N/A;2024
+19234151;REPSOL;COUNTRY;https://financialmodelingprep.com/api/v3/profile/REPYY;ES;N/A;2024
+19234151;REPSOL;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/REPYY;25136;N/A;2024
+19234151;REPSOL;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/REPYY;57122000000;EUR;2024
+19234151;REPSOL;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/REPYY;63186000000;EUR;2024
+19234151;REPSOL;WEBSITE;https://financialmodelingprep.com/api/v3/profile/REPYY;https://www.repsol.com;N/A;2024
+19234151;REPSOL;ACTIVITY;https://ai.google.dev/gemini-api;B06;N/A;2024
+19238855;ANHEUSER-BUSCH INBEV;COUNTRY;https://financialmodelingprep.com/api/v3/profile/BUDFF;BE;N/A;2024
+19238855;ANHEUSER-BUSCH INBEV;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/BUDFF;144000;N/A;2024
+19238855;ANHEUSER-BUSCH INBEV;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/BUDFF;59768000000;USD;2024
+19238855;ANHEUSER-BUSCH INBEV;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/BUDFF;206637000000;USD;2024
+19238855;ANHEUSER-BUSCH INBEV;WEBSITE;https://financialmodelingprep.com/api/v3/profile/BUDFF;https://www.ab-inbev.com;N/A;2024
+19238855;ANHEUSER-BUSCH INBEV;ACTIVITY;https://ai.google.dev/gemini-api;C11;N/A;2024
+19245907;SAMSUNG ELECTRONICS CO. LTD.;COUNTRY;https://www.boerse-frankfurt.de/equity/us7960508882-samsung-electronics-co-ltd-gdr?mic=XFRA;US;N/A;2024
+19245907;SAMSUNG ELECTRONICS CO. LTD.;EMPLOYEES;https://www.samsung.com/us/aboutsamsung/company/careers/life-at-samsung/facts-and-figures/;266673;N/A;2023
+19245907;SAMSUNG ELECTRONICS CO. LTD.;TURNOVER;https://images.samsung.com/is/content/samsung/assets/global/ir/2023_Samsung_Electronics_Annual_Report_en.pdf;258936000000;KRW;2023
+19245907;SAMSUNG ELECTRONICS CO. LTD.;ASSETS;https://www.samsung.com/global/ir/financial-information/;405941754000000;KRW;2023
+19245907;SAMSUNG ELECTRONICS CO. LTD.;WEBSITE;https://www.samsung.com/us/;www.samsung.com;N/A;2024
+19245907;SAMSUNG ELECTRONICS CO. LTD.;ACTIVITY;https://ai.google.dev/gemini-api;C26;N/A;2024
+19249932;NOVO NORDISK;COUNTRY;https://financialmodelingprep.com/api/v3/profile/NVO;DK;N/A;2024
+19249932;NOVO NORDISK;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/NVO;77406;N/A;2024
+19249932;NOVO NORDISK;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/NVO;290403000000;DKK;2024
+19249932;NOVO NORDISK;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/NVO;465795000000;DKK;2024
+19249932;NOVO NORDISK;WEBSITE;https://financialmodelingprep.com/api/v3/profile/NVO;https://www.novonordisk.com;N/A;2024
+19249932;NOVO NORDISK;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+19253725;SOLVAY;COUNTRY;https://financialmodelingprep.com/api/v3/profile/SVYSF;BE;N/A;2024
+19253725;SOLVAY;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/SVYSF;9000;N/A;2024
+19253725;SOLVAY;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/SVYSF;5130000000;EUR;2024
+19253725;SOLVAY;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/SVYSF;6694000000;EUR;2024
+19253725;SOLVAY;WEBSITE;https://financialmodelingprep.com/api/v3/profile/SVYSF;https://www.solvay.com;N/A;2024
+19253725;SOLVAY;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+19258448;BERTELSMANN STIFTUNG;COUNTRY;https://ai.google.dev/gemini-api;DE;N/A;2024
+19258448;BERTELSMANN STIFTUNG;EMPLOYEES;https://www.bertelsmann-stiftung.de/en/about-us/profile;700;N/A;2022
+19258448;BERTELSMANN STIFTUNG;TURNOVER;;;;
+19258448;BERTELSMANN STIFTUNG;ASSETS;;;;
+19258448;BERTELSMANN STIFTUNG;WEBSITE;https://www.bertelsmann-stiftung.de/en/home;www.bertelsmann-stiftung.de;N/A;2024
+19258448;BERTELSMANN STIFTUNG;ACTIVITY;https://ai.google.dev/gemini-api;O94;N/A;2024
+19261077;ASTRAZENECA PLC;COUNTRY;https://www.boerse-frankfurt.de/equity/astrazeneca-plc?mic=XFRA;GB;N/A;2024
+19261077;ASTRAZENECA PLC;EMPLOYEES;https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2023/AstraZeneca_Annual_Report_2023.pdf;89900;N/A;2023
+19261077;ASTRAZENECA PLC;TURNOVER;https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2023/AstraZeneca_Annual_Report_2023.pdf;45800000000;USD;2023
+19261077;ASTRAZENECA PLC;ASSETS;https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2023/AstraZeneca_Annual_Report_2023.pdf;102499000000;USD;2023
+19261077;ASTRAZENECA PLC;WEBSITE;https://www.astrazeneca.com/;www.astrazeneca.com;N/A;2024
+19261077;ASTRAZENECA PLC;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+19264134;ISS A/S;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ISSDY;DK;N/A;2023
+19264134;ISS A/S;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ISSDY;258886;N/A;2023
+19264134;ISS A/S;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ISSDY;78681000000;DKK;2023
+19264134;ISS A/S;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ISSDY;47693000000;DKK;2023
+19264134;ISS A/S;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ISSDY;https://www.issworld.com;N/A;2023
+19264134;ISS A/S;ACTIVITY;https://ai.google.dev/gemini-api;N81;N/A;2024
+19266518;WIENERBERGER GROUP;COUNTRY;https://ai.google.dev/gemini-api;AT;N/A;2024
+19266518;WIENERBERGER GROUP;EMPLOYEES;https://www.wienerberger.com/content/dam/wienerberger/group/investors/annual-report/WB_Annual_Report_2023_EN.pdf;19842;N/A;2023
+19266518;WIENERBERGER GROUP;TURNOVER;https://www.wienerberger.com/dam/jcr:e97b5c5a-4989-4a1a-b50f-999413b1ca17/WB_GB2023_secured.pdf;4855100000;EUR;2023
+19266518;WIENERBERGER GROUP;ASSETS;https://www.wienerberger.com/dam/jcr:ca35995f-949d-4517-8211-9211273a4494/WB_GB2023_secured.pdf;6314200000;EUR;2023
+19266518;WIENERBERGER GROUP;WEBSITE;https://www.wienerberger.com/en.html;www.wienerberger.com;N/A;2024
+19266518;WIENERBERGER GROUP;ACTIVITY;https://ai.google.dev/gemini-api;C23;N/A;2024
+19275814;VESTAS WIND SYSTEMS A/S;COUNTRY;https://financialmodelingprep.com/api/v3/profile/VWSYF;DK;N/A;2024
+19275814;VESTAS WIND SYSTEMS A/S;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/VWSYF;35927;N/A;2024
+19275814;VESTAS WIND SYSTEMS A/S;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/VWSYF;17295000000;EUR;2024
+19275814;VESTAS WIND SYSTEMS A/S;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/VWSYF;24644000000;EUR;2024
+19275814;VESTAS WIND SYSTEMS A/S;WEBSITE;https://financialmodelingprep.com/api/v3/profile/VWSYF;https://www.vestas.com;N/A;2024
+19275814;VESTAS WIND SYSTEMS A/S;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+19276100;YARA INTERNATIONAL ASA;COUNTRY;https://financialmodelingprep.com/api/v3/profile/YRAIF;NO;N/A;2024
+19276100;YARA INTERNATIONAL ASA;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/YRAIF;16624;N/A;2024
+19276100;YARA INTERNATIONAL ASA;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/YRAIF;13807000000;USD;2024
+19276100;YARA INTERNATIONAL ASA;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/YRAIF;14994000000;USD;2024
+19276100;YARA INTERNATIONAL ASA;WEBSITE;https://financialmodelingprep.com/api/v3/profile/YRAIF;https://www.yara.com;N/A;2024
+19276100;YARA INTERNATIONAL ASA;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+19286023;MITSUBISHI CORPORATION;COUNTRY;https://financialmodelingprep.com/api/v3/profile/MTSUY;JP;N/A;2024
+19286023;MITSUBISHI CORPORATION;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/MTSUY;62062;N/A;2024
+19286023;MITSUBISHI CORPORATION;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/MTSUY;19567601000000;JPY;2024
+19286023;MITSUBISHI CORPORATION;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/MTSUY;23459572000000;JPY;2024
+19286023;MITSUBISHI CORPORATION;WEBSITE;https://financialmodelingprep.com/api/v3/profile/MTSUY;https://www.mitsubishicorp.com;N/A;2024
+19286023;MITSUBISHI CORPORATION;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+19287986;ZF FRIEDRICHSHAFEN;COUNTRY;https://cbonds.com/bonds/618919/;XS;N/A;2024
+19287986;ZF FRIEDRICHSHAFEN;EMPLOYEES;https://www.zf.com/global/media/media_center/annual_report/ZF_Annual_Report_2023.pdf;165012;N/A;2023
+19287986;ZF FRIEDRICHSHAFEN;TURNOVER;https://press.zf.com/press/en/releases/release_54788.html;43100000000;EUR;2022
+19287986;ZF FRIEDRICHSHAFEN;ASSETS;https://www.zf.com/annual-report/2022/servicepages/downloads/index.html;44804000000;EUR;2022
+19287986;ZF FRIEDRICHSHAFEN;WEBSITE;https://www.zf.com/mobile/en/homepage/homepage.html;www.zf.com;N/A;2024
+19287986;ZF FRIEDRICHSHAFEN;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+19297963;KRKA TOVARNA ZDRAVIL DD NOVO MESTO;COUNTRY;https://ai.google.dev/gemini-api;SI;N/A;2024
+19297963;KRKA TOVARNA ZDRAVIL DD NOVO MESTO;EMPLOYEES;https://ai.google.dev/gemini-api;0;N/A;
+19297963;KRKA TOVARNA ZDRAVIL DD NOVO MESTO;TURNOVER;https://www.krka.si/media/publikacije/letna-porocila/2023/KRKA_AR2023_E.pdf;1808400000;EUR;2023
+19297963;KRKA TOVARNA ZDRAVIL DD NOVO MESTO;ASSETS;https://www.krka.si/media/publikacije/letna-porocila/2022/KRKA_AR2022_E.pdf;1994700000;EUR;2022
+19297963;KRKA TOVARNA ZDRAVIL DD NOVO MESTO;WEBSITE;https://www.krka.biz/;www.krka.biz;N/A;2024
+19297963;KRKA TOVARNA ZDRAVIL DD NOVO MESTO;ACTIVITY;https://ai.google.dev/gemini-api;C21;N/A;2024
+19300811;PRYSMIAN S.P.A.;COUNTRY;https://financialmodelingprep.com/api/v3/profile/PRYMY;IT;N/A;2024
+19300811;PRYSMIAN S.P.A.;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/PRYMY;33740;N/A;2024
+19300811;PRYSMIAN S.P.A.;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/PRYMY;17026000000;EUR;2024
+19300811;PRYSMIAN S.P.A.;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/PRYMY;18202000000;EUR;2024
+19300811;PRYSMIAN S.P.A.;WEBSITE;https://financialmodelingprep.com/api/v3/profile/PRYMY;https://www.prysmiangroup.com;N/A;2024
+19300811;PRYSMIAN S.P.A.;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+19312144;CANON INCORPORATED;COUNTRY;https://www.boerse-frankfurt.de/equity/canon-inc;JP;N/A;2024
+19312144;CANON INCORPORATED;EMPLOYEES;https://global.canon/en/ir/library/annual.html;73225;N/A;2023
+19312144;CANON INCORPORATED;TURNOVER;https://global.canon/en/ir/library/annual.html;4031400000000;JPY;2023
+19312144;CANON INCORPORATED;ASSETS;https://global.canon/en/ir/library/annual.html;4187382000000;JPY;2023
+19312144;CANON INCORPORATED;WEBSITE;https://global.canon/;global.canon;N/A;2024
+19312144;CANON INCORPORATED;ACTIVITY;https://ai.google.dev/gemini-api;C26;N/A;2024
+19313683;STANLEY BLACK & DECKER INC.;COUNTRY;https://financialmodelingprep.com/api/v3/profile/SWT;US;N/A;2024
+19313683;STANLEY BLACK & DECKER INC.;EMPLOYEES;https://ir.stanleyblackanddecker.com/news-events/press-releases/detail/1478/stanley-black-decker-announces-fourth-quarter-and-full;50700;N/A;2023
+19313683;STANLEY BLACK & DECKER INC.;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/SWT;15365700000;USD;2024
+19313683;STANLEY BLACK & DECKER INC.;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/SWT;290500000;USD;2024
+19313683;STANLEY BLACK & DECKER INC.;WEBSITE;https://www.stanleyblackanddecker.com/;www.stanleyblackanddecker.com;N/A;2024
+19313683;STANLEY BLACK & DECKER INC.;ACTIVITY;https://ai.google.dev/gemini-api;C25;N/A;2024
+19314055;NORSK HYDRO ASA;COUNTRY;https://live.euronext.com/en/product/equities/NO0005052605-XOSL;NO;N/A;2024
+19314055;NORSK HYDRO ASA;EMPLOYEES;https://www.hydro.com/globalassets/01-investors/reports/annual-reports/2023/norsk-hydro-asa---annual-report-2023.pdf;30413;N/A;2023
+19314055;NORSK HYDRO ASA;TURNOVER;https://www.hydro.com/globalassets/01-investors/reports/annual-reports/2023/hydro-annual-report-2023.pdf;174448000000;NOK;2023
+19314055;NORSK HYDRO ASA;ASSETS;https://www.hydro.com/globalassets/01-investors/reports/annual-reports/2023/hydro-annual-report-2023.pdf;249600000000;NOK;2023
+19314055;NORSK HYDRO ASA;WEBSITE;https://www.hydro.com/en/en/;www.hydro.com;N/A;2024
+19314055;NORSK HYDRO ASA;ACTIVITY;https://ai.google.dev/gemini-api;C24;N/A;2024
+19331837;EDIZIONE;COUNTRY;https://stockevents.app/en/stock/IT0005529414.FUND;IT;N/A;2024
+19331837;EDIZIONE;EMPLOYEES;https://www.edizione.it/en/company/our-history;6500;N/A;2022
+19331837;EDIZIONE;TURNOVER;https://www.edizione.it/en/press-release/edizione-approved-the-consolidated-financial-statements-as-at-31-december-2022;14500000000;EUR;2022
+19331837;EDIZIONE;ASSETS;;;;
+19331837;EDIZIONE;WEBSITE;https://www.edizione.com/;www.edizione.com;N/A;2024
+19331837;EDIZIONE;ACTIVITY;https://ai.google.dev/gemini-api;K64;N/A;2024
+19340550;VINCI;COUNTRY;https://financialmodelingprep.com/api/v3/profile/VCISY;FR;N/A;2024
+19340550;VINCI;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/VCISY;282481;N/A;2024
+19340550;VINCI;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/VCISY;72768000000;EUR;2024
+19340550;VINCI;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/VCISY;129491000000;EUR;2024
+19340550;VINCI;WEBSITE;https://financialmodelingprep.com/api/v3/profile/VCISY;https://www.vinci.com;N/A;2024
+19340550;VINCI;ACTIVITY;https://ai.google.dev/gemini-api;F42;N/A;2024
+19344352;KUEHNE NAGEL;COUNTRY;https://tools.morningstar.co.uk/uk/stockreport/default.aspx?SecurityToken=0P0000A5FG%5D3%5D0%5DE0WWE%24%24ALL;CH;N/A;2024
+19344352;KUEHNE NAGEL;EMPLOYEES;https://home.kuehne-nagel.com/fileadmin/user_upload/shared_content/investors/Kuehne_Nagel_Annual_Report_2023.pdf;81251;N/A;2023
+19344352;KUEHNE NAGEL;TURNOVER;https://invest.kuehne-nagel.com/sites/investor.kuehne-nagel.com/files/reports/Kuehne%2BNagel_Annual_Report_2023.pdf;23846000000;CHF;2023
+19344352;KUEHNE NAGEL;ASSETS;https://investor.kuehne-nagel.com/file/resource/download/668;25875000000;CHF;2023
+19344352;KUEHNE NAGEL;WEBSITE;https://es.kuehne-nagel.com/en/;es.kuehne-nagel.com;N/A;2024
+19344352;KUEHNE NAGEL;ACTIVITY;https://ai.google.dev/gemini-api;H52;N/A;2024
+19346455;STRABAG GROUP;COUNTRY;https://www.boerse-frankfurt.de/equity/strabag-se?mic=XFRA;AT;N/A;2024
+19346455;STRABAG GROUP;EMPLOYEES;https://www.strabag.com/databases/internet/$internet/content.nsf/0/9713498C65179A5EC1258AC300318866/$file/STRABAG_Annual_Report_2023_EN.pdf;79138;N/A;2023
+19346455;STRABAG GROUP;TURNOVER;https://www.strabag.com/databases/internet/$internet/content.nsf/0/96908179A668067DC1258A0A0034F357/$FILE/STRABAG_SE_GB_2022.pdf;17729000000;EUR;2022
+19346455;STRABAG GROUP;ASSETS;https://www.strabag.com/databases/internet/$internet/content.nsf/0/6379451409774931c1258b0e00335450/$file/STRABAG_Annual_Report_2023_EN.pdf;20231000;EUR;2023
+19346455;STRABAG GROUP;WEBSITE;https://www.strabag.com/en;www.strabag.com;N/A;2024
+19346455;STRABAG GROUP;ACTIVITY;https://ai.google.dev/gemini-api;F41;N/A;2024
+19414796;ATLAS UK BIDCO LIMITED;COUNTRY;https://ai.google.dev/gemini-api;GB;N/A;2024
+19414796;ATLAS UK BIDCO LIMITED;EMPLOYEES;;;N/A;
+19414796;ATLAS UK BIDCO LIMITED;TURNOVER;;;;
+19414796;ATLAS UK BIDCO LIMITED;ASSETS;;;;
+19414796;ATLAS UK BIDCO LIMITED;WEBSITE;https://find-and-update.company-information.service.gov.uk/company/13035494;find-and-update.company-information.service.gov.uk;N/A;2024
+19414796;ATLAS UK BIDCO LIMITED;ACTIVITY;https://ai.google.dev/gemini-api;K64;N/A;2024
+20016646;UNILEVER PLC;COUNTRY;https://live.euronext.com/en/product/equities/GB00B10RZP78-XAMS;GB;N/A;2024
+20016646;UNILEVER PLC;EMPLOYEES;https://www.unilever.com/about/who-we-are/our-strategy/;127000;N/A;2023
+20016646;UNILEVER PLC;TURNOVER;https://www.unilever.com/static/4a95556a-569f-440f-835f-47e2646a94aa/Unilever-Annual-Report-and-Accounts-2023.pdf;59600000000;EUR;2023
+20016646;UNILEVER PLC;ASSETS;https://www.unilever.com/static/54519b02-3f56-4741-b741-ddb011139491/Unilever-PLC-Annual-Report-2023.pdf;73444000000;EUR;2023
+20016646;UNILEVER PLC;WEBSITE;https://www.unilever.com/;www.unilever.com;N/A;2024
+20016646;UNILEVER PLC;ACTIVITY;https://ai.google.dev/gemini-api;C20;N/A;2024
+20029695;PROSEGUR;COUNTRY;https://financialmodelingprep.com/api/v3/profile/PGUUF;ES;N/A;2024
+20029695;PROSEGUR;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/PGUUF;56532;N/A;2024
+20029695;PROSEGUR;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/PGUUF;2089879000;EUR;2024
+20029695;PROSEGUR;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/PGUUF;2430159000;EUR;2024
+20029695;PROSEGUR;WEBSITE;https://financialmodelingprep.com/api/v3/profile/PGUUF;https://www.prosegurcash.com;N/A;2024
+20029695;PROSEGUR;ACTIVITY;https://ai.google.dev/gemini-api;N80;N/A;2024
+20083504;EATON CORPORATION PLC;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ETN;IE;N/A;2024
+20083504;EATON CORPORATION PLC;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ETN;94443;N/A;2024
+20083504;EATON CORPORATION PLC;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ETN;24878000000;USD;2024
+20083504;EATON CORPORATION PLC;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ETN;38381000000;USD;2024
+20083504;EATON CORPORATION PLC;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ETN;https://www.eaton.com;N/A;2024
+20083504;EATON CORPORATION PLC;ACTIVITY;https://ai.google.dev/gemini-api;C27;N/A;2024
+20321242;ANDRITZ GROUP;COUNTRY;https://www.boerse-frankfurt.de/equity/andritz-ag;AT;N/A;2024
+20321242;ANDRITZ GROUP;EMPLOYEES;https://www.andritz.com/resource/blob/134498/3a65939143304369499648f401589512/andritz-annual-report-2023-en-data.pdf;30200;N/A;2023
+20321242;ANDRITZ GROUP;TURNOVER;https://www.andritz.com/resource/blob/144418/498448690792196967a565492319d488/andritz-annual-report-2023-en-data.pdf;8000000000;EUR;2023
+20321242;ANDRITZ GROUP;ASSETS;https://www.andritz.com/resource/blob/144990/e9f8376994118171f63075948f95629f/andritz-annual-report-2023-en-data.pdf;8280300000;EUR;2023
+20321242;ANDRITZ GROUP;WEBSITE;https://www.andritz.com/group-en;www.andritz.com;N/A;2024
+20321242;ANDRITZ GROUP;ACTIVITY;https://ai.google.dev/gemini-api;C28;N/A;2024
+20336161;ASSECO;COUNTRY;https://financialmodelingprep.com/api/v3/profile/ASOZY;PL;N/A;2024
+20336161;ASSECO;EMPLOYEES;https://financialmodelingprep.com/api/v3/profile/ASOZY;33752;N/A;2024
+20336161;ASSECO;TURNOVER;https://financialmodelingprep.com/api/v3/income-statement/ASOZY;17132000000;PLN;2024
+20336161;ASSECO;ASSETS;https://financialmodelingprep.com/api/v3/balance-sheet-statement/ASOZY;20325000000;PLN;2024
+20336161;ASSECO;WEBSITE;https://financialmodelingprep.com/api/v3/profile/ASOZY;https://asseco.com;N/A;2024
+20336161;ASSECO;ACTIVITY;https://ai.google.dev/gemini-api;J62;N/A;2024
+20344223;ELECTRICITE DE FRANCE;COUNTRY;https://live.euronext.com/en/product/equities/fr0010242511-xpar;FR;N/A;2024
+20344223;ELECTRICITE DE FRANCE;EMPLOYEES;https://www.edf.fr/en/the-edf-group/strategy-and-commitments/key-figures;172585;N/A;2023
+20344223;ELECTRICITE DE FRANCE;TURNOVER;https://www.edf.fr/en/the-edf-group/strategy-challenges/key-figures;143500000000;EUR;2022
+20344223;ELECTRICITE DE FRANCE;ASSETS;https://www.edf.fr/en/the-edf-group/strategy-and-commitments/key-figures;304400000000;EUR;2023
+20344223;ELECTRICITE DE FRANCE;WEBSITE;https://www.edf.fr/en;www.edf.fr;N/A;2024
+20344223;ELECTRICITE DE FRANCE;ACTIVITY;https://ai.google.dev/gemini-api;D35;N/A;2024
+20345723;A.P. MOLLER - MAERSK;COUNTRY;https://tools.morningstar.co.uk/uk/stockreport/default.aspx?SecurityToken=0P0000A5RL]3]0]E0WWE$$ALL;DK;N/A;2024
+20345723;A.P. MOLLER - MAERSK;EMPLOYEES;https://investor.maersk.com/static-files/5855197b-5392-492e-a941-439ca9471731;102000;N/A;2023
+20345723;A.P. MOLLER - MAERSK;TURNOVER;https://investor.maersk.com/static-files/58959519-9c3b-4c9a-b872-58455a3f1a58;51065;USD;2023
+20345723;A.P. MOLLER - MAERSK;ASSETS;https://investor.maersk.com/static-files/59294929-ca69-4528-a764-19e78c335e15;224791000000;DKK;2023
+20345723;A.P. MOLLER - MAERSK;WEBSITE;https://www.maersk.com/;www.maersk.com;N/A;2024
+20345723;A.P. MOLLER - MAERSK;ACTIVITY;https://ai.google.dev/gemini-api;H52;N/A;2024
+20397226;L OREAL;COUNTRY;https://live.euronext.com/en/product/equities/FR0000120321-XPAR;FR;N/A;2024
+20397226;L OREAL;EMPLOYEES;https://www.loreal-finance.com/wp-content/uploads/2024/03/LOREAL_RA2023_VF.pdf;89995;N/A;2023
+20397226;L OREAL;TURNOVER;https://www.loreal-finance.com/en/annual-report/;41180000000;EUR;2023
+20397226;L OREAL;ASSETS;https://www.loreal-finance.com/wp-content/uploads/2024/03/LOREAL_DR2023_VF.pdf;42809000000;EUR;2023
+20397226;L OREAL;WEBSITE;https://www.loreal.com/en/;www.loreal.com;N/A;2024
+20397226;L OREAL;ACTIVITY;https://ai.google.dev/gemini-api;G46;N/A;2024
+20449369;CARLSBERG A/S;COUNTRY;https://www.boerse-frankfurt.de/equity/carlsberg-as;DK;N/A;2024
+20449369;CARLSBERG A/S;EMPLOYEES;https://www.carlsberggroup.com/annual-report/;41000;N/A;2023
+20449369;CARLSBERG A/S;TURNOVER;https://www.carlsberggroup.com/media/73826/carlsberg-group-annual-report-2023.pdf;73585000000;DKK;2023
+20449369;CARLSBERG A/S;ASSETS;https://www.carlsberggroup.com/media/72676/carlsberg-group-annual-report-2023.pdf;98834;DKK;2023
+20449369;CARLSBERG A/S;WEBSITE;https://www.carlsberggroup.com/;www.carlsberggroup.com;N/A;2024
+20449369;CARLSBERG A/S;ACTIVITY;https://ai.google.dev/gemini-api;C11;N/A;2024
+20530530;STELLANTIS;COUNTRY;https://live.euronext.com/en/product/equities/NL00150001Q9-XPAR;NL;N/A;2024
+20530530;STELLANTIS;EMPLOYEES;https://www.stellantis.com/content/dam/stellantis/ir/financial-reports/2023/Stellantis_2023_Annual_Report.pdf;256785;N/A;2023
+20530530;STELLANTIS;TURNOVER;https://www.stellantis.com/content/dam/stellantis-corporate/investors/financial-reports/Stellantis_FY2023_Results.pdf;189538000000;EUR;2023
+20530530;STELLANTIS;ASSETS;https://www.stellantis.com/content/dam/stellantis-corporate/investors/financial-reports/Stellantis_2023_Annual_Report.pdf;200347000000;EUR;2023
+20530530;STELLANTIS;WEBSITE;https://www.stellantis.com/en;www.stellantis.com;N/A;2024
+20530530;STELLANTIS;ACTIVITY;https://ai.google.dev/gemini-api;B29;N/A;2024
